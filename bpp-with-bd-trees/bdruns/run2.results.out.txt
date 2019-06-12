@@ -1,4 +1,4 @@
-Analysis started at: Thu Jun 13 07:39:51 2019
+Analysis started at: Thu Jun 13 08:08:33 2019
 Using BPP version: 4.1.4
 Command: bpp --cfile bpprun2.ctl 
 
@@ -80,41 +80,22 @@ C.File | Data |                Status                | Population
      2 |    2 | [OK]                                 | T2        
 
 
-Current Pjump:      0.27464  0.32714  0.00000  0.42425  0.85800
+Current Pjump:      0.26216  0.30342  0.00000  0.23008  0.90400
 Current finetune:   3.00000  0.00300  0.00200  0.00002  0.00500
-New finetune:       2.71034  0.00332  0.00002  0.00003  0.04326
+New finetune:       2.57160  0.00304  0.00002  0.00001  0.06458
 
 
-Current Pjump:      0.28729  0.30967  0.00000  0.31892  0.75500
-Current finetune:   2.71034  0.00332  0.00002  0.00003  0.04326
-New finetune:       2.57789  0.00345  0.00000  0.00003  0.20962
+Current Pjump:      0.26689  0.29544  0.00000  0.15092  0.58200
+Current finetune:   2.57160  0.00304  0.00002  0.00001  0.06458
+New finetune:       2.24920  0.00299  0.00000  0.00001  0.16447
 
 
-Current Pjump:      0.31376  0.32059  0.00000  0.29658  0.33000
-Current finetune:   2.57789  0.00345  0.00000  0.00003  0.20962
-New finetune:       2.71714  0.00373  0.00000  0.00003  0.23467
+Current Pjump:      0.26176  0.29522  0.00000  0.13333  0.22800
+Current finetune:   2.24920  0.00299  0.00000  0.00001  0.16447
+New finetune:       1.92471  0.00293  0.00000  0.00000  0.12081
 
 
-Current Pjump:      0.36862  0.33551  0.00000  0.33817  0.34900
-Current finetune:   2.71714  0.00373  0.00000  0.00003  0.23467
-New finetune:       3.48643  0.00426  0.00000  0.00004  0.28124
+Current Pjump:      0.26284  0.29760  0.00000  0.23758  0.33500
+Current finetune:   1.92471  0.00293  0.00000  0.00000  0.12081
+New finetune:       1.65473  0.00290  0.00000  0.00000  0.13772
 
-Summarizing the species-delimitation sample in file run2.results.mcmc.txt
-
-Number of species-delimitation models = 5
-
-     model    prior    posterior
-   1 0000   0.200000   0.000000
-   2 1000   0.200000   0.000000
-   3 1100   0.200000   0.000000
-   4 1110   0.200000   0.036000
-   5 1111   0.200000   0.964000
-
-Order of ancestral nodes:
-  T3T1T4T5T2
-  T3T1T4T5
-  T1T4T5
-  T4T5
-
-Guide tree with posterior probability for presence of nodes:
-((T3, (T1, (T4, T5)#0.964000)#1.000000)#1.000000, T2)#1.000000;;

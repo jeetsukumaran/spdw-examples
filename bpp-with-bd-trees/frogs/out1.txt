@@ -1,0 +1,478 @@
+Analysis started at: Sat Jun  8 20:28:22 2019
+Using BPP version: 4.1.4
+Command: bpp --cfile A10.bpp.ctl 
+
+COMPRESSED ALIGNMENTS
+
+21 7 P
+^6           uaaauca
+^c66         uaaaucu
+^rd1         uaaauca
+^hn24        uaaauaa
+^gs250       uaaauca
+^kiz1375     uaaauaa
+^kiz2305     uaaaaca
+^kiz2321     uaaaaca
+^kiz2405     uaaaaca
+^bj64        uaaauca
+^dl4         uaacuca
+^wlht2       uaaauca
+^ypx2767     uaaauca
+^ypx2732     uauauca
+^ypx3876     uauauca
+^ypx4225     uaaauaa
+^gs49        uaaauca
+^gs132       uaaauaa
+^nx4         uaaauaa
+^ypx3462     uaaauaa
+^ypx3893     ucaauaa
+462 1 2 1 1 1 2
+
+28 4 P
+^6           aagc
+^c66         aagc
+^rd1         aagc
+^hn24        aagc
+^gs250       aagc
+^kiz1375     aagu
+^kiz2305     aagc
+^kiz2321     aagc
+^kiz2405     aagc
+^bj64        aagc
+^dl4         aaau
+^wlht2       aagc
+^ypx2767     aagc
+^ypx2734     aagc
+^ypx3195     aagc
+^ypx4186     aagc
+^ypx4184     aagc
+^ypx3748     aagc
+^ypx4225     aagu
+^ypx3032     aagu
+^gs49        aagc
+^gs132       aagc
+^nx4         aagc
+^ypx3462     acgc
+^c14         aagc
+^ypx3893     aagc
+^ypx3460     aagc
+^gs75        aagc
+430 1 1 1
+
+28 5 P
+^6           ccacu
+^c66         ccacu
+^rd1         ccacu
+^hn24        ccacu
+^gs250       ccacu
+^kiz1375     ccaca
+^kiz2305     ccacu
+^kiz2321     ccacu
+^kiz2405     ccacu
+^bj64        ccacu
+^dl4         ccauu
+^ypx2767     ccacu
+^ypx2734     ccacu
+^ypx3195     ccacu
+^ypx4186     ccacu
+^ypx4184     ccacu
+^ypx3748     ccacu
+^ypx4225     ccgcu
+^ypx3032     ccacu
+^gs49        ccacu
+^gs132       ccacu
+^nx4         cuacu
+^ypx3462     ccacu
+^c14         ccacu
+^ypx3893     ccacu
+^ypx3460     ccacu
+^gs01        ccacu
+^gs75        ccacu
+415 1 1 1 1
+
+24 7 P
+^6           guccgcu
+^c66         guccgcu
+^rd1         guccgcg
+^hn24        guccgau
+^gs250       guccgcu
+^kiz1375     guccgcu
+^kiz2305     guccgcu
+^kiz2321     guccgcu
+^kiz2405     guccgcu
+^dl4         gucaucu
+^ypx2767     guucucu
+^ypx3195     guccucu
+^ypx4186     guccucu
+^ypx3748     guccucu
+^ypx4225     guccgcu
+^ypx3032     guccgcu
+^gs49        guccgcu
+^gs132       guccgcu
+^ypx3462     guccgcu
+^c14         gcccgcu
+^ypx3893     guccgcu
+^ypx3460     guccgcu
+^gs01        guccgcu
+^gs75        guccgcu
+267 1 1 1 1 1 1
+
+30 8 P
+^6           agaaggau
+^c66         agaaggau
+^rd1         agaaggcg
+^hn24        agaaggcg
+^gs250       agaaggcg
+^kiz1375     agaaggcg
+^kiz2305     agaagacg
+^kiz2321     agaaggcg
+^kiz2405     agaaggcg
+^bj64        agaaagag
+^dl10        agauggau
+^wlht2       agaaggau
+^ypx2767     agaaagag
+^ypx3876     aguaagag
+^ypx2734     agaaagag
+^ypx3195     agaaagag
+^ypx4186     agaaagag
+^ypx4184     agaaagag
+^ypx3748     agaaagag
+^ypx4225     agaaagag
+^ypx3032     auaaagag
+^gs49        agaaggag
+^gs132       agaaggag
+^nx4         agaaggag
+^ypx3462     agaaggcg
+^c14         agaaggag
+^ypx3893     agaaggag
+^ypx3460     agaaggcg
+^gs01        agaaggag
+^gs75        aguaggcg
+438 1 1 1 1 1 1 2
+
+COMPRESSED ALIGNMENTS AFTER PHASING OF DIPLOID SEQUENCES
+
+42 7 P
+^6.1           uaaauca
+^6.2           uaaauca
+^c66.1         uaaaucu
+^c66.2         uaaaucu
+^rd1.1         uaaauca
+^rd1.2         uaaauca
+^hn24.1        uaaauaa
+^hn24.2        uaaauaa
+^gs250.1       uaaauca
+^gs250.2       uaaauca
+^kiz1375.1     uaaauaa
+^kiz1375.2     uaaauaa
+^kiz2305.1     uaaaaca
+^kiz2305.2     uaaaaca
+^kiz2321.1     uaaaaca
+^kiz2321.2     uaaaaca
+^kiz2405.1     uaaaaca
+^kiz2405.2     uaaaaca
+^bj64.1        uaaauca
+^bj64.2        uaaauca
+^dl4.1         uaacuca
+^dl4.2         uaacuca
+^wlht2.1       uaaauca
+^wlht2.2       uaaauca
+^ypx2767.1     uaaauca
+^ypx2767.2     uaaauca
+^ypx2732.1     uauauca
+^ypx2732.2     uauauca
+^ypx3876.1     uauauca
+^ypx3876.2     uauauca
+^ypx4225.1     uaaauaa
+^ypx4225.2     uaaauaa
+^gs49.1        uaaauca
+^gs49.2        uaaauca
+^gs132.1       uaaauaa
+^gs132.2       uaaauaa
+^nx4.1         uaaauaa
+^nx4.2         uaaauaa
+^ypx3462.1     uaaauaa
+^ypx3462.2     uaaauaa
+^ypx3893.1     ucaauaa
+^ypx3893.2     ucaauaa
+1 1 1 1 1 1 1
+
+56 4 P
+^6.1           aagc
+^6.2           aagc
+^c66.1         aagc
+^c66.2         aagc
+^rd1.1         aagc
+^rd1.2         aagc
+^hn24.1        aagc
+^hn24.2        aagc
+^gs250.1       aagc
+^gs250.2       aagc
+^kiz1375.1     aagu
+^kiz1375.2     aagu
+^kiz2305.1     aagc
+^kiz2305.2     aagc
+^kiz2321.1     aagc
+^kiz2321.2     aagc
+^kiz2405.1     aagc
+^kiz2405.2     aagc
+^bj64.1        aagc
+^bj64.2        aagc
+^dl4.1         aaau
+^dl4.2         aaau
+^wlht2.1       aagc
+^wlht2.2       aagc
+^ypx2767.1     aagc
+^ypx2767.2     aagc
+^ypx2734.1     aagc
+^ypx2734.2     aagc
+^ypx3195.1     aagc
+^ypx3195.2     aagc
+^ypx4186.1     aagc
+^ypx4186.2     aagc
+^ypx4184.1     aagc
+^ypx4184.2     aagc
+^ypx3748.1     aagc
+^ypx3748.2     aagc
+^ypx4225.1     aagu
+^ypx4225.2     aagu
+^ypx3032.1     aagu
+^ypx3032.2     aagu
+^gs49.1        aagc
+^gs49.2        aagc
+^gs132.1       aagc
+^gs132.2       aagc
+^nx4.1         aagc
+^nx4.2         aagc
+^ypx3462.1     acgc
+^ypx3462.2     acgc
+^c14.1         aagc
+^c14.2         aagc
+^ypx3893.1     aagc
+^ypx3893.2     aagc
+^ypx3460.1     aagc
+^ypx3460.2     aagc
+^gs75.1        aagc
+^gs75.2        aagc
+1 1 1 1
+
+56 5 P
+^6.1           ccacu
+^6.2           ccacu
+^c66.1         ccacu
+^c66.2         ccacu
+^rd1.1         ccacu
+^rd1.2         ccacu
+^hn24.1        ccacu
+^hn24.2        ccacu
+^gs250.1       ccacu
+^gs250.2       ccacu
+^kiz1375.1     ccaca
+^kiz1375.2     ccaca
+^kiz2305.1     ccacu
+^kiz2305.2     ccacu
+^kiz2321.1     ccacu
+^kiz2321.2     ccacu
+^kiz2405.1     ccacu
+^kiz2405.2     ccacu
+^bj64.1        ccacu
+^bj64.2        ccacu
+^dl4.1         ccauu
+^dl4.2         ccauu
+^ypx2767.1     ccacu
+^ypx2767.2     ccacu
+^ypx2734.1     ccacu
+^ypx2734.2     ccacu
+^ypx3195.1     ccacu
+^ypx3195.2     ccacu
+^ypx4186.1     ccacu
+^ypx4186.2     ccacu
+^ypx4184.1     ccacu
+^ypx4184.2     ccacu
+^ypx3748.1     ccacu
+^ypx3748.2     ccacu
+^ypx4225.1     ccgcu
+^ypx4225.2     ccgcu
+^ypx3032.1     ccacu
+^ypx3032.2     ccacu
+^gs49.1        ccacu
+^gs49.2        ccacu
+^gs132.1       ccacu
+^gs132.2       ccacu
+^nx4.1         cuacu
+^nx4.2         cuacu
+^ypx3462.1     ccacu
+^ypx3462.2     ccacu
+^c14.1         ccacu
+^c14.2         ccacu
+^ypx3893.1     ccacu
+^ypx3893.2     ccacu
+^ypx3460.1     ccacu
+^ypx3460.2     ccacu
+^gs01.1        ccacu
+^gs01.2        ccacu
+^gs75.1        ccacu
+^gs75.2        ccacu
+1 1 1 1 1
+
+48 7 P
+^6.1           guccgcu
+^6.2           guccgcu
+^c66.1         guccgcu
+^c66.2         guccgcu
+^rd1.1         guccgcg
+^rd1.2         guccgcg
+^hn24.1        guccgau
+^hn24.2        guccgau
+^gs250.1       guccgcu
+^gs250.2       guccgcu
+^kiz1375.1     guccgcu
+^kiz1375.2     guccgcu
+^kiz2305.1     guccgcu
+^kiz2305.2     guccgcu
+^kiz2321.1     guccgcu
+^kiz2321.2     guccgcu
+^kiz2405.1     guccgcu
+^kiz2405.2     guccgcu
+^dl4.1         gucaucu
+^dl4.2         gucaucu
+^ypx2767.1     guucucu
+^ypx2767.2     guucucu
+^ypx3195.1     guccucu
+^ypx3195.2     guccucu
+^ypx4186.1     guccucu
+^ypx4186.2     guccucu
+^ypx3748.1     guccucu
+^ypx3748.2     guccucu
+^ypx4225.1     guccgcu
+^ypx4225.2     guccgcu
+^ypx3032.1     guccgcu
+^ypx3032.2     guccgcu
+^gs49.1        guccgcu
+^gs49.2        guccgcu
+^gs132.1       guccgcu
+^gs132.2       guccgcu
+^ypx3462.1     guccgcu
+^ypx3462.2     guccgcu
+^c14.1         gcccgcu
+^c14.2         gcccgcu
+^ypx3893.1     guccgcu
+^ypx3893.2     guccgcu
+^ypx3460.1     guccgcu
+^ypx3460.2     guccgcu
+^gs01.1        guccgcu
+^gs01.2        guccgcu
+^gs75.1        guccgcu
+^gs75.2        guccgcu
+1 1 1 1 1 1 1
+
+60 8 P
+^6.1           agaaggau
+^6.2           agaaggau
+^c66.1         agaaggau
+^c66.2         agaaggau
+^rd1.1         agaaggcg
+^rd1.2         agaaggcg
+^hn24.1        agaaggcg
+^hn24.2        agaaggcg
+^gs250.1       agaaggcg
+^gs250.2       agaaggcg
+^kiz1375.1     agaaggcg
+^kiz1375.2     agaaggcg
+^kiz2305.1     agaagacg
+^kiz2305.2     agaagacg
+^kiz2321.1     agaaggcg
+^kiz2321.2     agaaggcg
+^kiz2405.1     agaaggcg
+^kiz2405.2     agaaggcg
+^bj64.1        agaaagag
+^bj64.2        agaaagag
+^dl10.1        agauggau
+^dl10.2        agauggau
+^wlht2.1       agaaggau
+^wlht2.2       agaaggau
+^ypx2767.1     agaaagag
+^ypx2767.2     agaaagag
+^ypx3876.1     aguaagag
+^ypx3876.2     aguaagag
+^ypx2734.1     agaaagag
+^ypx2734.2     agaaagag
+^ypx3195.1     agaaagag
+^ypx3195.2     agaaagag
+^ypx4186.1     agaaagag
+^ypx4186.2     agaaagag
+^ypx4184.1     agaaagag
+^ypx4184.2     agaaagag
+^ypx3748.1     agaaagag
+^ypx3748.2     agaaagag
+^ypx4225.1     agaaagag
+^ypx4225.2     agaaagag
+^ypx3032.1     auaaagag
+^ypx3032.2     auaaagag
+^gs49.1        agaaggag
+^gs49.2        agaaggag
+^gs132.1       agaaggag
+^gs132.2       agaaggag
+^nx4.1         agaaggag
+^nx4.2         agaaggag
+^ypx3462.1     agaaggcg
+^ypx3462.2     agaaggcg
+^c14.1         agaaggag
+^c14.2         agaaggag
+^ypx3893.1     agaaggag
+^ypx3893.2     agaaggag
+^ypx3460.1     agaaggcg
+^ypx3460.2     agaaggcg
+^gs01.1        agaaggag
+^gs01.2        agaaggag
+^gs75.1        aguaggcg
+^gs75.2        aguaggcg
+1 1 1 1 1 1 1 1
+
+
+Per-locus sequences in data and 'species&tree' tag:
+C.File | Data |                Status                | Population
+-------+------+--------------------------------------+-----------
+    18 |   12 | [OK]                                 | K         
+    14 |   20 | [OK]                                 | C         
+    28 |   24 | [OK]                                 | L         
+     4 |    4 | [OK]                                 | H         
+
+
+Current Pjump:      0.68488  0.05992  0.00000  0.18958  0.32800
+Current finetune:   5.00000  0.00100  0.00100  0.00100  0.30000
+New finetune:      18.17827  0.00019  0.00001  0.00060  0.33339
+
+
+Current Pjump:      0.68161  0.29588  0.00000  0.14517  0.27900
+Current finetune:  18.17827  0.00019  0.00001  0.00060  0.33339
+New finetune:      65.28769  0.00018  0.00000  0.00027  0.30664
+
+
+Current Pjump:      0.68024  0.30099  0.00000  0.21150  0.33000
+Current finetune:  65.28769  0.00018  0.00000  0.00027  0.30664
+New finetune:      99.00000  0.00018  0.00000  0.00019  0.34327
+
+
+Current Pjump:      0.68348  0.30000  0.00000  0.26350  0.26800
+Current finetune:  99.00000  0.00018  0.00000  0.00019  0.34327
+New finetune:      99.00000  0.00018  0.00000  0.00016  0.30165
+
+Summarizing the species-delimitation sample in file mcmc.txt
+
+Number of species-delimitation models = 5
+
+     model    prior    posterior
+   1 000   0.200000   0.000000
+   2 100   0.200000   0.000000
+   3 101   0.200000   0.000000
+   4 110   0.200000   0.000920
+   5 111   0.200000   0.999080
+
+Order of ancestral nodes:
+  KCLH
+  KC
+  LH
+
+Guide tree with posterior probability for presence of nodes:
+((K, C)#1.000000, (L, H)#0.999080)#1.000000;;
