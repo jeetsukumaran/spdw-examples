@@ -3,8 +3,8 @@
 
        seqfile = bpprun_00001.input.chars.txt
       Imapfile = bpprun_00001.input.imap.txt
-       outfile = bpprun_00001.results.out.txt
-      mcmcfile = bpprun_00001.results.mcmc.txt
+       outfile = run0.results.out.txt
+      mcmcfile = run0.results.mcmc.txt
 
 * speciesdelimitation = 0 * fixed species tree
 * speciesdelimitation = 1 0 2    * species delimitation rjMCMC algorithm0 and finetune(e)
@@ -20,7 +20,7 @@
                  ((T3,(T1,(T4,T5))),T2);
 
 
-       usedata = 1    * 0: no data (prior); 1:seq like
+       usedata = 0    * 0: no data (prior); 1:seq like
          nloci = 5    * number of data sets in seqfile
 
      cleandata = 0    * remove sites with ambiguity data (1:yes, 0:no)?

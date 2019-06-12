@@ -1,6 +1,6 @@
-Analysis started at: Tue Jun 11 22:55:17 2019
+Analysis started at: Thu Jun 13 07:37:49 2019
 Using BPP version: 4.1.4
-Command: bpp --cfile bpprun_00001.input.bpp.ctl 
+Command: bpp --cfile bpprun0.ctl 
 
 COMPRESSED ALIGNMENTS
 
@@ -80,35 +80,35 @@ C.File | Data |                Status                | Population
      2 |    2 | [OK]                                 | T2        
 
 
-Current Pjump:      0.25071  0.30321  0.00000  0.23833  0.89900
+Current Pjump:      0.61280  0.00292  0.00000  0.46331  0.99500
 Current finetune:   3.00000  0.00300  0.00200  0.00002  0.00500
-New finetune:       2.44653  0.00304  0.00002  0.00002  0.06133
+New finetune:       8.45635  0.00003  0.00002  0.00003  1.24941
 
 
-Current Pjump:      0.24651  0.29773  0.00000  0.26842  0.59000
-Current finetune:   2.44653  0.00304  0.00002  0.00002  0.06133
-New finetune:       1.95812  0.00301  0.00000  0.00001  0.16032
+Current Pjump:      0.62331  0.58654  0.00000  0.47551  0.22300
+Current finetune:   8.45635  0.00003  0.00002  0.00003  1.24941
+New finetune:      24.69638  0.00007  0.00000  0.00006  0.89589
 
 
-Current Pjump:      0.24298  0.29756  0.00000  0.19383  0.19000
-Current finetune:   1.95812  0.00301  0.00000  0.00001  0.16032
-New finetune:       1.54240  0.00298  0.00000  0.00001  0.09680
+Current Pjump:      0.61727  0.39136  0.00000  0.51445  0.35100
+Current finetune:  24.69638  0.00007  0.00000  0.00006  0.89589
+New finetune:      70.66596  0.00010  0.00000  0.00013  1.08128
 
 
-Current Pjump:      0.23711  0.29676  0.00000  0.21742  0.42300
-Current finetune:   1.54240  0.00298  0.00000  0.00001  0.09680
-New finetune:       1.18266  0.00294  0.00000  0.00001  0.14880
+Current Pjump:      0.62449  0.31328  0.00000  0.43808  0.27200
+Current finetune:  70.66596  0.00010  0.00000  0.00013  1.08128
+New finetune:      99.00000  0.00010  0.00000  0.00021  0.96621
 
-Summarizing the species-delimitation sample in file bpprun_00001.results.mcmc.txt
+Summarizing the species-delimitation sample in file run0.results.mcmc.txt
 
 Number of species-delimitation models = 5
 
      model    prior    posterior
-   1 0000   0.200000   0.000000
-   2 1000   0.200000   0.005000
-   3 1100   0.200000   0.007000
-   4 1110   0.200000   0.010000
-   5 1111   0.200000   0.978000
+   1 0000   0.200000   0.203000
+   2 1000   0.200000   0.213000
+   3 1100   0.200000   0.183000
+   4 1110   0.200000   0.205000
+   5 1111   0.200000   0.196000
 
 Order of ancestral nodes:
   T3T1T4T5T2
@@ -117,4 +117,4 @@ Order of ancestral nodes:
   T4T5
 
 Guide tree with posterior probability for presence of nodes:
-((T3, (T1, (T4, T5)#0.978000)#0.988000)#0.995000, T2)#1.000000;;
+((T3, (T1, (T4, T5)#0.196000)#0.401000)#0.584000, T2)#0.797000;;
