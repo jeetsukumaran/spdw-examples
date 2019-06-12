@@ -1,0 +1,93 @@
+Simulation parameters for current simulations
+=============================================
+
+
+Deme sizes
+Deme 0	1000
+Deme 1	1000
+Deme 2	1000
+Deme 3	1000
+Deme 4	1000
+
+
+Sample sizes
+Deme 0	2
+Deme 1	2
+Deme 2	2
+Deme 3	2
+Deme 4	2
+
+Sample ages
+Deme 0	0
+Deme 1	0
+Deme 2	0
+Deme 3	0
+Deme 4	0
+
+Growth rates
+Deme 0	0
+Deme 1	0
+Deme 2	0
+Deme 3	0
+Deme 4	0
+
+
+Historical events
+Event 0
+
+#Time             : 3520
+#Source           : 3
+#Sink             : 4
+#Migrants         : 1
+#New size         : 1
+#New growth rate  : 0
+#New migr. matrix : 0
+
+Event 1
+
+#Time             : 3803
+#Source           : 1
+#Sink             : 2
+#Migrants         : 1
+#New size         : 1
+#New growth rate  : 0
+#New migr. matrix : 0
+
+Event 2
+
+#Time             : 9403
+#Source           : 2
+#Sink             : 4
+#Migrants         : 1
+#New size         : 1
+#New growth rate  : 0
+#New migr. matrix : 0
+
+Event 3
+
+#Time             : 10409
+#Source           : 0
+#Sink             : 4
+#Migrants         : 1
+#New size         : 1
+#New growth rate  : 0
+#New migr. matrix : 0
+
+
+
+Number of independent loci to simulate : 1
+With the same chromosomal structure
+
+Number of linkage blocks to simulate in structure 1: 1
+
+   4 partially linked DNA loci:
+      recombination, mutation rates and transition rates :0.0000000000   0.0005000000   0.00000
+
+
+
+Random generator initialized with : 422706
+
+
+
+done in 0.125 secs
+
