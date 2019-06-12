@@ -1,0 +1,1 @@
+ p ../../../bin/spdw_build_bpp_jobs.py --num-loci 1 --num-ind 2 --num-char 400  --mutation-rate 1e-02

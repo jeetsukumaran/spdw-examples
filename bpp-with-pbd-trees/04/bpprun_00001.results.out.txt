@@ -1,0 +1,1450 @@
+Analysis started at: Sat Jun  8 21:33:22 2019
+Using BPP version: 4.1.4
+Command: bpp --cfile bpprun_00001.input.bpp.ctl 
+
+COMPRESSED ALIGNMENTS
+
+40 400 P
+S1.1_1^S1.1_1       aguagcauuc auauggucac gcagaucaag acacaaaaca ccagggauua accgcccaua aggcuaaaca agaagcgagc cuucgggguc gcaagcauga cacccuaaaa ccuaacgguu uugaaacgau ucugaaguag auuucuucuc guauacaccg augcuucuag gagcuuugua ucaaagugca cuuauuggag aaguccguua auaacguuag gcuuucgaac gagcagggcc cccaaugccc gucgcacucc augccgggcc ccaggcguaa uguuuucucc aagagcagau aucugcgucu cugugaauac ggccuuugua cuucgaaggu guccgcaacu gucucaccac aaacggcacg aacuuguaag acgaaauaua aggagccugg
+S1.1_2^S1.1_2       aguagcauuc auauggucac gcagaucaag acacaaaaca ccagggauua accgcccaua aggcuaaaca agaagcgagc cuucgggguc gcaagcauga cauuaaugcu aaagcguuac caaguuucgc cgcaucacca uaaggaggca uagaguguua ccuuacucuc aucugagagu cggcccgcgu gagcacuaca ccacuaaacc uagcuccauu cgcccuacuu cguuguccuu gguuucugau uaucagugaa uacggcccuu guucuuaagg cccaggucuu ccccuaccgc ucaauauaac uacgucgacg uaggcgguac aacgugccua ucugcacggc acgcuggagu cucuucggaa uuaaauccuu cacucgaccu ucagaaagaa
+S1.13_1^S1.13_1     aguagcauuc auauggucac ggcauauuca uacgccccgc aagauacggu uuaaauauag gcauguuguc ucggauauuu uccuacccag uuugaugaag ggcccuaaaa ccuaacgguu uugaaacgau ucugaaguag auuucuucuc guauacaccg augcuucuuc aucugagagu cggcccgcgu gagcacuaca ccacuaaacc uagcuccauu cgcccuacuu cguuguccuu uugccacagg cggauuaagu ccauaauuga uaguagcguu auaccaaaga guagcgguca cguccuagua aguacuugga ccaugccagg ugguauuucc cgaaugguaa uguagcugcg gcgaauaugu ccuggcggga ggaggucggc guccuugauu
+S1.13_2^S1.13_2     aguagcacga cacccccacg ucagaucaag acacacccgc aagauacggu uuaaagucgc cacaagccau gacccgcgcg aagauuuaca aagucgccuu aucccuaaaa ccuaacgguu uugauuucgc cgcagucggu gcgaugaagg acugcgcggu gacacagaag gagcuuugua ucaaccgcgu gagcaccugu ugugggucag cguuguagcc uuagggcucg uucgccuuga cccaaugccc gucgcacucc augccgggcc ccaggcguaa uguuuucucu ccccuaccgc ucaauauaac uacgucgacg uagugccagg ugguauuucc cgaaugguaa uguagcugcg gcgaauauuc gggccaaucc uuucucguag cauucguccc
+S1.9_1^S1.9_1       agcuaauuuc cagguaguua ccagaauuca uagauaaaca cagauauacg gauugccaua agguguuguc ucggagcgcg aagauuuugu cgccuaugcc uccccuugcu aaacgaaaga agccaaccgg guacaaguag auuugaggca ucugcgcggu gacgggagag gacuccccac aucgagugca gaaugaggag aaguccguua uagcuccauc uuaggaugga acaauaaaag cccaaugccc gucgcacgaa uacggcccua uaguagcguu auagacggac aagagaccgc ucaauaugua aguacuccuu auucuuugua cuucugccua ucugcaguaa ugugauauua ugugcauccg aacuauccuu caaggucggc gauucguccc
+S1.9_2^S1.9_2       aucuagcugg ucauuagugu agcacuuuuc guaauaaacc gcgauuaugg gaucuccaug caucuaaguc gacuucgagc uagauuagag aagucaugcc ucccgcaacc ggcaacaaga acuuauaauc guauaaguag uccccuuagg cuaugugggu ggacugagcu cccauuuagc aauuagguuc acuacgggag aaacuaucgu uagcucaggg cgagacgcug ucaauaaaag cccaauggau uggaucguca uacggaaaac cuucagcguu auguggugac acccccacgc ucacagcucc uauacgauga auucuuuuac uggagaacua cgauauagga uaaucgggca ugugcaucca uggcuucgcc uugagucgag cgggauuccc
+S1.2_1^S1.2_1       ucaguacggu aaaacccugu agcagaugag uagcgccgau uuagcaacuu uauauuaugg gccuacgaca agggccagaa guucaugacu uuguucauau acccccauau gggaacuuaa guuuuuuacc ucagacaggu ggaccgcagg cuuguauuua cccggugacu ugugagaaaa gccuauggcu cauauggaca cgacgugcuu augcguccca cagagccaug aagcguccga ccuccaacaa auucgaauuc aacauugguc gcgagcgauu gaguugucac gaguacuggc uguagucguu accgacucau ggucgcaguc caaggugcua gggaauagua ccauaauauc aacuuaucua ccgcggaauu gggaaaaguu guuaaccuuu
+S1.2_2^S1.2_2       acagcaccgc aaaacuaugu aggccgucau cgucgccgac uuaguaaguu uauccuacgc acgcaugaca aucgaccgaa auggaugugu uuguccaaau ucccaacuuu ggaaguuuaa cugcuuauug uaugucucgu gucccgccgu uugauauuua gccagugaag ggcucgaccg gcuuacggcu aagcuggaca guagguucua augggaccca cacagcuaca aagcaucuag ccuacgacaa auuagaacuu guuauugauc gcgaguugau caauuggacu gacuauucgc gcaagucauu aaccacuuau guaagcgguu caaguaggcc cgggauugga ccaucauuac accuugccgg ccgcagaauc gggaaaaguu guucaucgau
+S2.8_1^S2.8_1       gucgcgccgc uuccacacca aggcgaauaa agaaauuauc ugaucacaga uuuauuuuug aucucuaaag uaucgguuua ugucaugaac guuguuugcc aauacuuucg ggaaacgucc caaaccgucc gcaugugucc uuaccuaaag augaguucuc gccccgcaaa uuccgaagcg cuggugagug acgucaguuc uagcauuagc ccuagacuuc augcagaucc cauaagucug gggagccauc cagcccagau aauuugucaa agcaccauga cccccgcgua aagucaacaa ggguccgcgc cggcagaagu acacaacgcg uaccccgaug uguuguagag auggaacugg uucaagggau accggggcgc guccguuacg cuacuacggc
+S2.8_2^S2.8_2       gucgcgccgc uuucacacca aggcgaauaa agaaauuauc ugaucacaga uuuauuuuug aucucuaaag uaucgguuua ugucaugaac guuguuugcc aauacuuucg ggaaacgucc caaaccgucc gcaugugucc uuaccuaaag augaguucuc gccccgcaaa uuccgaagcg cuggugagug acgucaguuc uagcauuagc ccuagacuuc augcagaucc cauaagucug gggagccauc cagccgagau aauuugucaa agcaccauga cccccgcgua aagucaacaa ggguccgcgc cggcagaagu acacaacgcg uaccccgaug uguuguagag auggaacugg uucaagggau accggggcgc guccguuacg cuacuacggc
+S1.5_1^S1.5_1       ucaccguaga ugugugaugg uucugcaaua uaaucgguga ccaugaugac ucuccagcau agguuggguu guuucacccc gacguugggu ucacggucag gcuaacgcaa ccgggcuuua ggaggugucu ucggaaguag ggaacgacau ucacggacau acuguuuuug uuuggccgac uacgugccac cguuuggucu ucaugucgca aaacgacaaa ucucgcugaa gcaggcacga caagugcuga uaaucaccac aacuaugaag cggcacgacg uuacagaccu cucguauaug cggcagggau agaccuugag gagucguucc acgcauuaua cccaacuguu gcuccaguac cccccuuagc guagccgauc ccgaacucuu agcggcgaaa
+S1.5_2^S1.5_2       gcgccccacg guucccaccu gaauggcggc gguuucgagu cccggccucg acauugccuc ugcgguugga gaguacccgg cucauuacgu uuaagccaag cguuagaaaa aggcgauagg auaagcacgu uagggcccuu gcgugacugg gugcacgcau ggcaggggag aaaggacagg aucgccccca gaggugcuca guacaucuag aaucucuuaa uuaccuuacg aaccuccauu ggauuuaaaa caggguacgc aguuaugccg ccgcaacccu uaggcaagau acucccggcu aggggguacc agcgcacgcg augugcuggu ucauuucgcg cgauuugaua ccagcgguug gugccaauuc guggcaguag aaauaaggga ucgacagcgu
+S1.18_1^S1.18_1     guugacucuu ggucaggucc aagcaauuga guuagcaggu auuaguacgu gggggaaacg uucgcauucu uugccaauua cugggcguuu auugccccac ucgaggccug gccgugaaag uacuacggca acaucuguaa cuggguauca cuccaccuau cacccaagau agugugcauc gcaugaucgu cgccguugag ugggucuucc auuccuugcc aguuuuaauc ucggcacuca gagaguggau ccaucaaauc ugacgcaccu gucuccuuaa guaguuugac guuuggaguc cacggcgucc ccuauuaaga uggagagcuc uggaaggaau cauccuuuau cggcgcgcaa aaauggcgau cggauaggga uaugaggggg gacgcacgca
+S1.18_2^S1.18_2     guggacucca ggucagguac aagccguuga guuaguaggu guuaguaggg gguagauccu uuggcguuca uugccgagug gugggcguuu guagcccuaa acgaggcaug gccuagagag ugcuaaggua cccuuucuaa cugaguagca cguccucuuu cuccaaagau agcguguuac gcauguucca cuccgaugag ggggucuucu auuccuugcc aguguuaauc ucgggacuca ggaacuggcu gcuucaaaua ugaggaaccu uacuccuuaa ucaguuugag uuuuggaguc cacggcgugc gcuauuagga cggccagcuu gagaaggaau caaccuuuau cagcgcgcaa aaaguacggu cggaucggcu uaugcgcgcg gacucuccga
+S1.7_1^S1.7_1       cccagucuca cauacgggcg aacagauuua uaauuucgga ugacauaggu uaagguuuau cucggguaag cugcgccauu gguuaagaac uaagccgcuc auauucuaga uucugggcau uuguucggaa cagaguacag uugaggacaa ugcgucugac uggguuaccc aacggugaau gcuaguggca ucaagaccgc uuaugcuguu guuuugcuaa cguuguccac auguuaugau cgucgguaua agagagugac auauugccgc aacgacucac ggggauugug uaauuucugu uuuggaaucc gcacgcacac aacuaccguu cacgccgccg acgccacuau acgguccacg uccuuaccca accguuucau agggacucaa uuggaucguu
+S1.7_2^S1.7_2       cgaauuaaag ccggccaacg caaaucuauu ugugggucac agacuacagg ugacguaagu uacacuagug gugaggaucg guagacaagc ggcccauggu uuggaggaaa agccuccugg cauuguaacc ggaagagcga ucagggaacu uucccguuuu ucacacaaua caugcagugg cauuuuauag gagaugccgg ucuacagagg accuugcuug uaacgccguc gccuacgucg uucacgcuag cacgucguag cucuaaaccg uuaugcgcca aggagcgcau guggggaauc accccucuac aggauaggcu gcucuauugu gggggauugc ucugggucgu gauuugcugg agcagauagg caacagguug uauauacucg cucucucgaa
+S1.6_1^S1.6_1       ucauuaggcg gaguuuguua cgacucgacc ucaccgaugg gaucucgugc ucguagauug cacuccacag gucuuuccca gggaugauau uacugaaccu ucucaggguc acgagcagca auuuuauacu ggcccuuagu gcgguaacgu ccgucgcgag cguaagcuga cgucaguaug cagccaucac agcgaccguu auuccguuuu ugggucgcgu gagggggaga uccugugacc aaugccuucu uguagagagg ugcgccgcua cggagcgacg auaggaaauc ugguauuacg aaauuuuggc cccaacccgg aacagggaag uucucaacgc ggccucaugc ugaaucacag ccucuucagg gagaaagccg uacauagcca cgcccccguc
+S1.6_2^S1.6_2       gaauaagucg ggccgaggug ugauagggcg ccuccaacgg gaccaugacc gcggagaguc acagguguac gucugaaccg cgcaugaaac uacucaaaca ucacaagguc ccuagcaucu auguuauagu gaguuuugug gcagggaggu ccgucacccg cgcagcuuga cguaugcaac cagcuaguuc gguaauggcg aaugaaaggu uggcccccac gugggggaca uccguagacc aaugcauugu cgcggagggg cgacacgcuc cggccugugg accagaaauc agcgauaacg aacuugaggc guccgaucgg gauacacaag gacaccaggc cggauguugg gggaucugau ccacaucagg aaaaaagcuc uaagugcugu gccucccuac
+S1.16_1^S1.16_1     ucaccuaauu cugcuacguc ucagcuugca cgauaacggc cuggccauuc aacgcugaaa gugugaaggc uuaagccccc uguccugggc ccuuaccgua aaguauuugg uuuccccggg auuuuaauac caagaccccu gcccugacug aaaccccuug ccgagauucg uccgaugucg agucucuggc cuuacgauuu cagagaaagc uuaaaucgca agcuugcgag uugauagugc cucacuguua aucaauauaa gccaacguug uucugugacg accgaaaucc uuuguccgaa cucgcgggca gcggcccaga gaaccgcgug gugggguugu gcggccaacc accgacucca agucguauuc uugaacaguc ucuucaguau guugugcucc
+S1.16_2^S1.16_2     uaacuacauu uccagcccca cuggugcguu uccguaauua gcggcaucag ucggccguac gggucacagc cgcuuauagc agcccgucua ucgcuauaca aaucuugacu cuacccugaa uuuuucacaa uguguugugu gcgcgccugu gccaagcgac gacgcggcuc cuacaagagg gcucacuuaa gggcggucgg agccggcggg ucuguguuau cugaccgagc guaggguucc accgaguugg guuaaagccg gaguugagcg uagggccggc agcuaaaugu ggucgcagau ggguauugcc gccacacgga ugacucagag aagguuuucc uuuggaucgc cguuaacgcg aaccacgggu uuuccuugcc uaagucccua cuuguaaacc
+S1.14_1^S1.14_1     cuaaccccga aucugccuuc gcuaacgugc cgcgagaagg cuacaaauau gacccgggga uccgggcggc ccaggcucuu cuaaaacccg guaauuaguc acccccuucg gugucuggaa aguacacuuu gaauggaagu agcuccgccc cuuaauauau uuuuaucagu cuugacccac cuuagggcau aguguuacac cuguggcaau cacgcaguau cucgagcgug guuuucuaug uuuuugcauu cacacuugcg ucuuaauccu aguugacaca guucgauaau auguuccuag uacauggcgg gucccgcuau agccaagcuc aauggauaga gcagacguaa cagagggcua gauucucaua gugcacucug ucggccaggu gaaggacaac
+S1.14_2^S1.14_2     ccagccgagg guuugccuuu cgucgcgugg cgcguuaaga cuaaaaauau agcguuucgc uccgggagac ccagagaccu gucaaucgcc caaucucgug auaaucuugg cgaucuagac agcagacugu caauuccagu agccccugcg ccaaaauauc ucuuauauaa cuaaacccac auuccgccuu ugugcaacau aucugacagc gccacaguaa caggagcgua guguuagcca ucuucgugua guaccucgac uuuugguuuu aauugcuacg cucuggugaa gggggcguag uucuuggcgg uccucgucuc cgacaggguu gauagcuugu uccguccugu uagagcacua ggugcuagua aggccuacau uuggucauuu ggacaccaac
+S1.3_1^S1.3_1       ugcacauaua ggggcuaugu uaccgccuaa guacuuaugu gugauaucuc gguuuuggga cuuagugacu auuguggcga agacaacugc auugcccagc cagcuaacga acggagguga agguaucgua gccucgauaa uugaaguguu aacucccaac aucagaucca uacgaugaua ccuuaaucgu uaacaagaag ucauaucucu cgccaacuua cgucaagcua uuucggcuuc ucucuaugcg ggggugaagu ggcccgcugu uccguuuaua cucauuuuuc acggcccuac guaccuauuu gccuuguagc ggcguggaca gguaauuuuc uacucaacag guagagaugg uacguuguuc uuacucuucg uccgagggac uaacuagacg
+S1.3_2^S1.3_2       aucuaggucc uugaccgcug ugaauuugga acccgaccga agcugcacca auggccagga ccgaguccau cuauagcugu auucgcuuuu ggggggaaac gcuuucgccc ggguagauac acucgugugg cuguauaacc cugcuagcaa uccggacaau gacgacggga uggcggaguu ccgucuaacg acuguccgcc gacugaacaa agauuaacuu cgccacgaca uugucacagg ccuguuuaug gauuuugguu aggguccccg gucucaacgc gcuccuggcu ggugcaacau gauacauccg ucguacaugg cgugguucgg cauaaggcuc ucuaugugug uugucaguug ugcccgcgcc aaagguuacc ccuugagucc gacgagagug
+S1.10_1^S1.10_1     cuaccagucc aauagcuuag cgcauuuguc ggcguugauu uggucccaga agugaccucc aaggggacga uacggacucu agcuguguuc ucaugcuucu gcucagcgug uccguuacga uucgcuuugc cuagcguagg gacuggaggc auuacgcgag gacaggaggc cguauaugcu auucgccaca cacuauauau gugacgcuua acuguuuguc ugaagaccua uucaacgaag uaacguugcu caacaacaau cgcaguccug uuuuuguagu ucucugacag ucgaugagau aagauacggu auaagcggua cugauccgcc acguacaagg uuuuccacuc acugaaaccu guauucuacg gggauaugca uacuaggccc auuaaucuua
+S1.10_2^S1.10_2     gggucgcucc agcucugaug caaugauuuu cggagugggu cuuagcacgg cucuccggcc ucuuauauuu ggccauagug agaauccgca ucaugauccc gggaaccccu gaaaugggcg augguguagu ugagaacgcu gucaauauag uaaaaguaac uggugcauga agacucaucu caauuauagu gccagugucu guaguugugu aaguguugcu cuccguccug cagcucggac gcacuuaaug cuggaauacc cggauacgau uuaggucccu accguuuggc ggugacgugg ucaugggacu ucgacucggc agauucccug cgaucggcga aaaacgaauu aggugggcug ugugauugga ggaagaggcg uuucuaccga ggcaguaucg
+S1.15_1^S1.15_1     ggagagaaua gaacgucuau uacaucgcuu gaacauuccu aaggaauaaa uaaauugauu ucuacgcgua aggugucugu aaagaguaag acggcuuaaa guucgauucc caauucucua uucaucaacc uagacaacaa guaugcggcg guguggggcc augugugccc uucucuccuu acauaaagcu ggcccauagg gcaguuucuu uaaacaacag aacuagucug cuucuacuug uaacgaugag cgaagaaaaa uagacgaaaa uuccgccccc ccucugaugc gucccaaugc uacgaaagac acuccgaagg gagacuguuc acuggugucc acccaucugg ugggggcucu uuuaucagcc ggcuugcgac uaggcuuggg uagcgaguau
+S1.15_2^S1.15_2     gcacaaacuc gccacaacgc ccauccuucg gcacuuaccg caguaaauag caaaauaugc ucauacucgg caaccuggag cgaggugcca accgccuucg ccgcacucgu cuggcccuag uugaguuaga ccgcuaucag gaugcgaccu uuauuuauga ucuugugauu augaagcuuc acuuccgcca gcuccuaucg uaucaucauc uugaguacuc gucaauguaa uugggcagca uuuaccggug cauccagcaa caucgauaag uaaucagaaa cguuucaagg acuccgggaa aguugaaagu cgucugugag gucuaccgau ucuuaucggc gagccacgcg gcgaaaacgg gacuaaacuu uagcaccgua cgaaccgcag cucccgcucg
+S1.20_1^S1.20_1     ucuuagaaug gaacgcucuc aagaggucgu gacaucgcga aaugauuucu acaacuuagg ccccccuaua cuaagcucga aauaaguuau aggucucacu gucagugugc caggccguug uccaccggcu ggguagcgaa guaauugacg cucaccguca gagaccgucu ucaguuguga gcacagggca ugcuucgcgg ggugguuaau uuguuaacug cacgcuucag uagauaccug uacagcuggu cuaggacuuu ucgaguucaa caccccacgc ggucaaugau augccgauga aacccacgua ccucguagca cgagcucugc acugggucgc aaucaaaugg ggggugcuuu ucuagcggug ggggggcacg gauacuuggg ugucaaaugc
+S1.20_2^S1.20_2     ucuaagaagg gaaggcucug aagagcuggu gacaucgcga aaugauuucu acgacuaagg ccacuccgua cuaagcacgc aauaaguuau aggucucagc gucagucugc gaggacguuc ucuaccggcu gguaagggaa guaauucacg cucacgguca cucacccuau ucaguuguug gcacauguua uaccucgcug aguggugcau uuuuaaacag caggcuucug uagauaccug uaaauaaggu caaggaccuu uacaguucug gaccacaccc gguccgugaa auuccgaugc aacgcgcguc caucggagcc caagcuccuc acuugcgcac agucagauag ggggugguuu ucuagagguc guggggcacg gaaacuugga ugucgaaugc
+S1.12_1^S1.12_1     ucaggugcac ccugaaaccg cuacaacuac agccaguaua ucaaaaucuu ccacauacuc gcacaacguc augcgaaucc acugcccacu cgcucugcgg gggcggccua uauggcucag gugguguagg gaccgcuccc ccuucuagca gggaaaaggu gagcuaugua cguucgugac gguggcuaua caugcugaau auuucgcagc cucucaaggg cuuuucccag agcagcgugc gucuagucuu ggagcaacca acagugugac acaggccuaa gccugcuaca gaaugguuga acgccagcga cgccgaacaa ggguacuagu auccgguugc guucucggcc gccucccgug gcaaagauuc ucuguuaagu aggccagcag gaccagucgc
+S1.12_2^S1.12_2     ggaucuuaau uugcgguuaa acccaaaaau aaaagaaauu agugguaauu augccgugaa aaacuaacug gugacgccgu auggccccgc aaagauagag uuccacggua gcaaucaaaa guuacguucc aacauuaaug acgguauuug gaucaaccca ccacucacaa aguuagauuu cguacuucaa gccuggcaca agcgucaagc gggaucggaa guuggcgcua uuguagugca guaggacaua aaaauucgga cugccuucuc cggcagcgcg uaccuggcua uacgaacggu aaguagcgau auuccacugu ccgacuuagu cuugaagguu auacgcauau cggcccacaa agacgaucuc acguagcaua cacacucggg acuguugaca
+S1.4_1^S1.4_1       gucgcuguug cugcuuuagg uuaucgcuaa guccgucaug ccaucauaug uuagaacgau cuagauggcc uuuuagaaag aacguuuaaa aacuacaaua acugaccaau ccuaagcagg aaaccccaac acgcuucgac uagcgugggu gagauaaaac acccugguac auccgggcug ucuugcuugu ccguaggccu uacuuaugaa ccugucgaug uaaagaaaac ccagggccga uauauggccg gagugagacu uucaugcacc cuggggcccc uaacaccuug acgaucaaga gucaaagcua acaggcccgg auggcgggcc gggacgccgg uggaagcaga cgucaugaca acugugguac uauugcgguc cagugucugg gguaguuauu
+S1.4_2^S1.4_2       ggcguaguug uugcucgagg ucauuacuca cucugucaug ccaucauuug uucaaacuau uuagauggcc uuuuagaaag agcgguagaa uacuacaaca ucugacgaau ccuaagcugg aaacacuugu acgcuucgac aagcgugggg gagaucaacc agcagggucc auccgggcug aguugguugc ccauaggccc uaacuaugaa ccuguggaug uaacaaguac ccagggccac gauaucgcgc gagugacacu uucacgcacc cugggaacac uaacaccgua acggucaaga gucuaagcua ucaggccagg aucguucccc ggcacgccug ugguaaccga acccgagacu ugugggguac uauugcgauc ccgguacacc gguaguuuuu
+S1.11_1^S1.11_1     ucacgcgcgu cauguccccc agcugccucc agagccgcgu gauuagcgug gugugacguc cgauaugcgu cuuggugucc uuucgagcgg cgcucgggua uauggcaagg gaagguagcc caucguguug gcggucgcua uucggauaaa ucugaaugcg gggcggggag cgguauacga aacguuugcu cacuggccgu gcuaauuauc guaacuaccg agcagauauc ggggugccca ccucaccaca uguuaugcua ccacguagga agcacaucuc acuccgauaa guugacuauc cagguguacc acaucgacac uauggguuau gagcuaaguc ccgagcgugc uauacguccg gccggccauu cuguauaucc cgcggaauga gacagaaaaa
+S1.11_2^S1.11_2     acacacaguu cgugaaaucu agcaacgucc uuaacaggga uaucugcuuu gggggagcca caacaugcgu cuugguuuac gcggaaucgu cgauuuugug uacggccucu auauggaucu aauguuuuau ucgcucaguu uugggcaucu acggagggau ggugccuuag cuguaccggc cggccucggu aauuagcgug auacuuuauu ccgcacuggu aggaaaccug acccugcccg gguauuguga ugcuccucua gcaaauaaaa caaaccgcac gaaggucuau acacacugua uacugcucau acaacggaac cauaaguccu aagauauguu ccuggggauu uccgaauccg acguggcccc auaucuuacc acaacaaggg gcuaagcuau
+S1.17_1^S1.17_1     ccuagcaacu cagccggugu aacauugagg cccugcuuuc augucauucu ggaucggguu gugaacucgg gaucuaccug uugaucauua uaaucccccu ucgagcgccu cugcuagauc agcauccggg uugguacgcg caaagcugcu ugucgccuug ggucgaucga accgcacgaa gggggacaga gauuaccguu ucucagagcu uacgcgccgu cacccaugga cuuccccaac gcaacagagu ccagacuucu gucguacaaa gaggaggccg uugacuaguu uagguaggga uuauggucug cuagauuugc acaaugugug acuuagcugu gagggagcac auuauucuua uggccguucu agcugcguuu agguaucaac ccagugucgg
+S1.17_2^S1.17_2     uggcgggauu aagacggaua uuaggugcac cagaagacgg auguuagauu ugcgugcugg caaacaaguc uaggaagccu agggguaggg cgacggccaa uucgggugug ccuuccgggu acaaagugug cccaggacac uuccucaucc uuaacugguc agugagcccg aauuucggcg uguauuuagg cgcucaccgu cuuuacgccu aagugugcga acgccggagg caugcacuug auuuguggcc augucccucc ggguggucgg ugaggagggg uacgaauaac aaauugaaag aauggauuua guaucaucgg uaugacuuga gaagcaccuu cauucauuag caggaaagac ucgcccugcc ucggagccag gacgagagaa cguuuaccuc
+S1.19_1^S1.19_1     uaacagaauu aaaauuucug ccuuccuaaa uuagaguggc cguugaaggu gaugcuguac cgcaggguga ugucuuucac acaguguucg agggcggaca ccacacauac ggacuggugc aaacucgcga caugaugccg uacggguuag ucuuaucgua agggucacug cuugcuccag ucuaucuacg acuggccuuu cuucuagcaa agaauuagga auauagccgg cggggccucu aagguuuggu uaggugccgc aacucaaagg gaauccgaac gaauagcuga uauuaagacc cgcuggaccg cuucauuacc ccuacuggga ugagcuggac aucuucucac acccuacuuu acuccaucca auggcguugg aauaccucag cuuauuagcg
+S1.19_2^S1.19_2     gaccgggcgc auguuguagg cgucaucacg acugcgccug ucaucguaca uuuguuuagu ucacgcagga accaaggguc gcgguuuucg cuaucgcucu cuccaaaacg gcacugggug aauacccugu uagagccagc gugccgucuc agacgagccu agggcguaca cauggaggau cuuacccgag cucuuuacaa ccaaaucacg agggguuugu ucgucgcaag cgacaccaca acaggccggu uaggguccag cuuggcucaa ccuugaaugc cgcgugcacu agcgucauag guuacguaug guauuauggu ucuaccuuac gacaaggaag gucccgcuau cucacaguac gacgaccgau ccugccaucc ggaucgccua cgucgaucgu
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+
+
+Per-locus sequences in data and 'species&tree' tag:
+C.File | Data |                Status                | Population
+-------+------+--------------------------------------+-----------
+     2 |    2 | [OK]                                 | S1.1      
+     2 |    2 | [OK]                                 | S1.13     
+     2 |    2 | [OK]                                 | S1.9      
+     2 |    2 | [OK]                                 | S1.2      
+     2 |    2 | [OK]                                 | S2.8      
+     2 |    2 | [OK]                                 | S1.5      
+     2 |    2 | [OK]                                 | S1.18     
+     2 |    2 | [OK]                                 | S1.7      
+     2 |    2 | [OK]                                 | S1.6      
+     2 |    2 | [OK]                                 | S1.16     
+     2 |    2 | [OK]                                 | S1.14     
+     2 |    2 | [OK]                                 | S1.3      
+     2 |    2 | [OK]                                 | S1.10     
+     2 |    2 | [OK]                                 | S1.15     
+     2 |    2 | [OK]                                 | S1.20     
+     2 |    2 | [OK]                                 | S1.12     
+     2 |    2 | [OK]                                 | S1.4      
+     2 |    2 | [OK]                                 | S1.11     
+     2 |    2 | [OK]                                 | S1.17     
+     2 |    2 | [OK]                                 | S1.19     
+
+
+Current Pjump:      0.50000  0.59573  0.00000  0.91671  0.92100
+Current finetune:   3.00000  0.00300  0.00200  0.00002  0.00500
+New finetune:       5.88783  0.00799  0.00002  0.00030  0.07867
+
+
+Current Pjump:      0.47049  0.58919  0.00000  0.85401  0.23900
+Current finetune:   5.88783  0.00799  0.00002  0.00030  0.07867
+New finetune:      10.53089  0.02083  0.00000  0.00251  0.06085
+
+
+Current Pjump:      0.47603  0.61006  0.00000  0.83595  0.38400
+Current finetune:  10.53089  0.02083  0.00000  0.00251  0.06085
+New finetune:      19.16718  0.05819  0.00000  0.01868  0.08227
+
+
+Current Pjump:      0.46692  0.62013  0.00000  0.85469  0.23900
+Current finetune:  19.16718  0.05819  0.00000  0.01868  0.08227
+New finetune:      33.89858  0.16811  0.00000  0.15779  0.06363
+
+Summarizing the species-delimitation sample in file bpprun_00001.results.mcmc.txt
+
+Number of species-delimitation models = 1327
+
+     model    prior    posterior
+   1 0000000000000000000   0.000754   0.000000
+   2 1000000000000000000   0.000754   0.000000
+   3 1001000000000000000   0.000754   0.000000
+   4 1001000000010000000   0.000754   0.000000
+   5 1001000000010000100   0.000754   0.000000
+   6 1001000000010000110   0.000754   0.000000
+   7 1001000000010000111   0.000754   0.000000
+   8 1001000000011000000   0.000754   0.000000
+   9 1001000000011000100   0.000754   0.001000
+  10 1001000000011000110   0.000754   0.000000
+  11 1001000000011000111   0.000754   0.000000
+  12 1001000000011100000   0.000754   0.000000
+  13 1001000000011100100   0.000754   0.000000
+  14 1001000000011100110   0.000754   0.000000
+  15 1001000000011100111   0.000754   0.000000
+  16 1001000000011110000   0.000754   0.000000
+  17 1001000000011110100   0.000754   0.000000
+  18 1001000000011110110   0.000754   0.000000
+  19 1001000000011110111   0.000754   0.000000
+  20 1001000000011111000   0.000754   0.000000
+  21 1001000000011111100   0.000754   0.001000
+  22 1001000000011111110   0.000754   0.001000
+  23 1001000000011111111   0.000754   0.000000
+  24 1001100000000000000   0.000754   0.000000
+  25 1001100000010000000   0.000754   0.000000
+  26 1001100000010000100   0.000754   0.000000
+  27 1001100000010000110   0.000754   0.000000
+  28 1001100000010000111   0.000754   0.000000
+  29 1001100000011000000   0.000754   0.000000
+  30 1001100000011000100   0.000754   0.000000
+  31 1001100000011000110   0.000754   0.001000
+  32 1001100000011000111   0.000754   0.000000
+  33 1001100000011100000   0.000754   0.000000
+  34 1001100000011100100   0.000754   0.001000
+  35 1001100000011100110   0.000754   0.000000
+  36 1001100000011100111   0.000754   0.001000
+  37 1001100000011110000   0.000754   0.000000
+  38 1001100000011110100   0.000754   0.000000
+  39 1001100000011110110   0.000754   0.000000
+  40 1001100000011110111   0.000754   0.000000
+  41 1001100000011111000   0.000754   0.000000
+  42 1001100000011111100   0.000754   0.000000
+  43 1001100000011111110   0.000754   0.000000
+  44 1001100000011111111   0.000754   0.000000
+  45 1001101000000000000   0.000754   0.000000
+  46 1001101000010000000   0.000754   0.000000
+  47 1001101000010000100   0.000754   0.000000
+  48 1001101000010000110   0.000754   0.000000
+  49 1001101000010000111   0.000754   0.000000
+  50 1001101000011000000   0.000754   0.000000
+  51 1001101000011000100   0.000754   0.000000
+  52 1001101000011000110   0.000754   0.001000
+  53 1001101000011000111   0.000754   0.002000
+  54 1001101000011100000   0.000754   0.000000
+  55 1001101000011100100   0.000754   0.001000
+  56 1001101000011100110   0.000754   0.000000
+  57 1001101000011100111   0.000754   0.002000
+  58 1001101000011110000   0.000754   0.002000
+  59 1001101000011110100   0.000754   0.000000
+  60 1001101000011110110   0.000754   0.000000
+  61 1001101000011110111   0.000754   0.000000
+  62 1001101000011111000   0.000754   0.000000
+  63 1001101000011111100   0.000754   0.001000
+  64 1001101000011111110   0.000754   0.001000
+  65 1001101000011111111   0.000754   0.002000
+  66 1001101001000000000   0.000754   0.001000
+  67 1001101001010000000   0.000754   0.000000
+  68 1001101001010000100   0.000754   0.000000
+  69 1001101001010000110   0.000754   0.000000
+  70 1001101001010000111   0.000754   0.001000
+  71 1001101001011000000   0.000754   0.000000
+  72 1001101001011000100   0.000754   0.000000
+  73 1001101001011000110   0.000754   0.000000
+  74 1001101001011000111   0.000754   0.000000
+  75 1001101001011100000   0.000754   0.001000
+  76 1001101001011100100   0.000754   0.001000
+  77 1001101001011100110   0.000754   0.000000
+  78 1001101001011100111   0.000754   0.000000
+  79 1001101001011110000   0.000754   0.001000
+  80 1001101001011110100   0.000754   0.000000
+  81 1001101001011110110   0.000754   0.000000
+  82 1001101001011110111   0.000754   0.001000
+  83 1001101001011111000   0.000754   0.000000
+  84 1001101001011111100   0.000754   0.001000
+  85 1001101001011111110   0.000754   0.000000
+  86 1001101001011111111   0.000754   0.004000
+  87 1001101001100000000   0.000754   0.001000
+  88 1001101001110000000   0.000754   0.001000
+  89 1001101001110000100   0.000754   0.000000
+  90 1001101001110000110   0.000754   0.000000
+  91 1001101001110000111   0.000754   0.001000
+  92 1001101001111000000   0.000754   0.000000
+  93 1001101001111000100   0.000754   0.000000
+  94 1001101001111000110   0.000754   0.000000
+  95 1001101001111000111   0.000754   0.000000
+  96 1001101001111100000   0.000754   0.000000
+  97 1001101001111100100   0.000754   0.001000
+  98 1001101001111100110   0.000754   0.001000
+  99 1001101001111100111   0.000754   0.001000
+ 100 1001101001111110000   0.000754   0.000000
+ 101 1001101001111110100   0.000754   0.002000
+ 102 1001101001111110110   0.000754   0.000000
+ 103 1001101001111110111   0.000754   0.003000
+ 104 1001101001111111000   0.000754   0.002000
+ 105 1001101001111111100   0.000754   0.001000
+ 106 1001101001111111110   0.000754   0.001000
+ 107 1001101001111111111   0.000754   0.001000
+ 108 1001101100000000000   0.000754   0.001000
+ 109 1001101100010000000   0.000754   0.000000
+ 110 1001101100010000100   0.000754   0.000000
+ 111 1001101100010000110   0.000754   0.000000
+ 112 1001101100010000111   0.000754   0.001000
+ 113 1001101100011000000   0.000754   0.000000
+ 114 1001101100011000100   0.000754   0.000000
+ 115 1001101100011000110   0.000754   0.000000
+ 116 1001101100011000111   0.000754   0.000000
+ 117 1001101100011100000   0.000754   0.000000
+ 118 1001101100011100100   0.000754   0.002000
+ 119 1001101100011100110   0.000754   0.001000
+ 120 1001101100011100111   0.000754   0.002000
+ 121 1001101100011110000   0.000754   0.002000
+ 122 1001101100011110100   0.000754   0.001000
+ 123 1001101100011110110   0.000754   0.000000
+ 124 1001101100011110111   0.000754   0.001000
+ 125 1001101100011111000   0.000754   0.000000
+ 126 1001101100011111100   0.000754   0.001000
+ 127 1001101100011111110   0.000754   0.001000
+ 128 1001101100011111111   0.000754   0.000000
+ 129 1001101101000000000   0.000754   0.000000
+ 130 1001101101010000000   0.000754   0.000000
+ 131 1001101101010000100   0.000754   0.000000
+ 132 1001101101010000110   0.000754   0.001000
+ 133 1001101101010000111   0.000754   0.001000
+ 134 1001101101011000000   0.000754   0.001000
+ 135 1001101101011000100   0.000754   0.000000
+ 136 1001101101011000110   0.000754   0.000000
+ 137 1001101101011000111   0.000754   0.000000
+ 138 1001101101011100000   0.000754   0.001000
+ 139 1001101101011100100   0.000754   0.000000
+ 140 1001101101011100110   0.000754   0.001000
+ 141 1001101101011100111   0.000754   0.002000
+ 142 1001101101011110000   0.000754   0.002000
+ 143 1001101101011110100   0.000754   0.001000
+ 144 1001101101011110110   0.000754   0.002000
+ 145 1001101101011110111   0.000754   0.001000
+ 146 1001101101011111000   0.000754   0.002000
+ 147 1001101101011111100   0.000754   0.000000
+ 148 1001101101011111110   0.000754   0.001000
+ 149 1001101101011111111   0.000754   0.002000
+ 150 1001101101100000000   0.000754   0.000000
+ 151 1001101101110000000   0.000754   0.000000
+ 152 1001101101110000100   0.000754   0.001000
+ 153 1001101101110000110   0.000754   0.002000
+ 154 1001101101110000111   0.000754   0.002000
+ 155 1001101101111000000   0.000754   0.000000
+ 156 1001101101111000100   0.000754   0.001000
+ 157 1001101101111000110   0.000754   0.000000
+ 158 1001101101111000111   0.000754   0.001000
+ 159 1001101101111100000   0.000754   0.001000
+ 160 1001101101111100100   0.000754   0.000000
+ 161 1001101101111100110   0.000754   0.000000
+ 162 1001101101111100111   0.000754   0.001000
+ 163 1001101101111110000   0.000754   0.000000
+ 164 1001101101111110100   0.000754   0.001000
+ 165 1001101101111110110   0.000754   0.001000
+ 166 1001101101111110111   0.000754   0.001000
+ 167 1001101101111111000   0.000754   0.000000
+ 168 1001101101111111100   0.000754   0.001000
+ 169 1001101101111111110   0.000754   0.001000
+ 170 1001101101111111111   0.000754   0.000000
+ 171 1001101110000000000   0.000754   0.000000
+ 172 1001101110010000000   0.000754   0.002000
+ 173 1001101110010000100   0.000754   0.001000
+ 174 1001101110010000110   0.000754   0.000000
+ 175 1001101110010000111   0.000754   0.001000
+ 176 1001101110011000000   0.000754   0.001000
+ 177 1001101110011000100   0.000754   0.000000
+ 178 1001101110011000110   0.000754   0.000000
+ 179 1001101110011000111   0.000754   0.000000
+ 180 1001101110011100000   0.000754   0.002000
+ 181 1001101110011100100   0.000754   0.000000
+ 182 1001101110011100110   0.000754   0.001000
+ 183 1001101110011100111   0.000754   0.002000
+ 184 1001101110011110000   0.000754   0.001000
+ 185 1001101110011110100   0.000754   0.000000
+ 186 1001101110011110110   0.000754   0.001000
+ 187 1001101110011110111   0.000754   0.000000
+ 188 1001101110011111000   0.000754   0.000000
+ 189 1001101110011111100   0.000754   0.002000
+ 190 1001101110011111110   0.000754   0.000000
+ 191 1001101110011111111   0.000754   0.001000
+ 192 1001101111000000000   0.000754   0.000000
+ 193 1001101111010000000   0.000754   0.000000
+ 194 1001101111010000100   0.000754   0.001000
+ 195 1001101111010000110   0.000754   0.002000
+ 196 1001101111010000111   0.000754   0.000000
+ 197 1001101111011000000   0.000754   0.000000
+ 198 1001101111011000100   0.000754   0.001000
+ 199 1001101111011000110   0.000754   0.003000
+ 200 1001101111011000111   0.000754   0.000000
+ 201 1001101111011100000   0.000754   0.000000
+ 202 1001101111011100100   0.000754   0.000000
+ 203 1001101111011100110   0.000754   0.002000
+ 204 1001101111011100111   0.000754   0.000000
+ 205 1001101111011110000   0.000754   0.002000
+ 206 1001101111011110100   0.000754   0.001000
+ 207 1001101111011110110   0.000754   0.005000
+ 208 1001101111011110111   0.000754   0.000000
+ 209 1001101111011111000   0.000754   0.003000
+ 210 1001101111011111100   0.000754   0.001000
+ 211 1001101111011111110   0.000754   0.001000
+ 212 1001101111011111111   0.000754   0.004000
+ 213 1001101111100000000   0.000754   0.001000
+ 214 1001101111110000000   0.000754   0.000000
+ 215 1001101111110000100   0.000754   0.000000
+ 216 1001101111110000110   0.000754   0.000000
+ 217 1001101111110000111   0.000754   0.001000
+ 218 1001101111111000000   0.000754   0.002000
+ 219 1001101111111000100   0.000754   0.000000
+ 220 1001101111111000110   0.000754   0.000000
+ 221 1001101111111000111   0.000754   0.001000
+ 222 1001101111111100000   0.000754   0.000000
+ 223 1001101111111100100   0.000754   0.001000
+ 224 1001101111111100110   0.000754   0.002000
+ 225 1001101111111100111   0.000754   0.004000
+ 226 1001101111111110000   0.000754   0.000000
+ 227 1001101111111110100   0.000754   0.007000
+ 228 1001101111111110110   0.000754   0.003000
+ 229 1001101111111110111   0.000754   0.000000
+ 230 1001101111111111000   0.000754   0.001000
+ 231 1001101111111111100   0.000754   0.001000
+ 232 1001101111111111110   0.000754   0.003000
+ 233 1001101111111111111   0.000754   0.000000
+ 234 1001110000000000000   0.000754   0.000000
+ 235 1001110000010000000   0.000754   0.000000
+ 236 1001110000010000100   0.000754   0.000000
+ 237 1001110000010000110   0.000754   0.000000
+ 238 1001110000010000111   0.000754   0.000000
+ 239 1001110000011000000   0.000754   0.001000
+ 240 1001110000011000100   0.000754   0.000000
+ 241 1001110000011000110   0.000754   0.000000
+ 242 1001110000011000111   0.000754   0.000000
+ 243 1001110000011100000   0.000754   0.000000
+ 244 1001110000011100100   0.000754   0.002000
+ 245 1001110000011100110   0.000754   0.001000
+ 246 1001110000011100111   0.000754   0.000000
+ 247 1001110000011110000   0.000754   0.000000
+ 248 1001110000011110100   0.000754   0.002000
+ 249 1001110000011110110   0.000754   0.000000
+ 250 1001110000011110111   0.000754   0.000000
+ 251 1001110000011111000   0.000754   0.000000
+ 252 1001110000011111100   0.000754   0.001000
+ 253 1001110000011111110   0.000754   0.001000
+ 254 1001110000011111111   0.000754   0.001000
+ 255 1001111000000000000   0.000754   0.000000
+ 256 1001111000010000000   0.000754   0.000000
+ 257 1001111000010000100   0.000754   0.000000
+ 258 1001111000010000110   0.000754   0.000000
+ 259 1001111000010000111   0.000754   0.000000
+ 260 1001111000011000000   0.000754   0.000000
+ 261 1001111000011000100   0.000754   0.000000
+ 262 1001111000011000110   0.000754   0.000000
+ 263 1001111000011000111   0.000754   0.000000
+ 264 1001111000011100000   0.000754   0.000000
+ 265 1001111000011100100   0.000754   0.001000
+ 266 1001111000011100110   0.000754   0.000000
+ 267 1001111000011100111   0.000754   0.001000
+ 268 1001111000011110000   0.000754   0.000000
+ 269 1001111000011110100   0.000754   0.000000
+ 270 1001111000011110110   0.000754   0.001000
+ 271 1001111000011110111   0.000754   0.001000
+ 272 1001111000011111000   0.000754   0.001000
+ 273 1001111000011111100   0.000754   0.001000
+ 274 1001111000011111110   0.000754   0.001000
+ 275 1001111000011111111   0.000754   0.001000
+ 276 1001111001000000000   0.000754   0.000000
+ 277 1001111001010000000   0.000754   0.000000
+ 278 1001111001010000100   0.000754   0.001000
+ 279 1001111001010000110   0.000754   0.001000
+ 280 1001111001010000111   0.000754   0.000000
+ 281 1001111001011000000   0.000754   0.000000
+ 282 1001111001011000100   0.000754   0.001000
+ 283 1001111001011000110   0.000754   0.000000
+ 284 1001111001011000111   0.000754   0.000000
+ 285 1001111001011100000   0.000754   0.000000
+ 286 1001111001011100100   0.000754   0.002000
+ 287 1001111001011100110   0.000754   0.000000
+ 288 1001111001011100111   0.000754   0.000000
+ 289 1001111001011110000   0.000754   0.001000
+ 290 1001111001011110100   0.000754   0.000000
+ 291 1001111001011110110   0.000754   0.002000
+ 292 1001111001011110111   0.000754   0.001000
+ 293 1001111001011111000   0.000754   0.001000
+ 294 1001111001011111100   0.000754   0.001000
+ 295 1001111001011111110   0.000754   0.000000
+ 296 1001111001011111111   0.000754   0.000000
+ 297 1001111001100000000   0.000754   0.000000
+ 298 1001111001110000000   0.000754   0.000000
+ 299 1001111001110000100   0.000754   0.001000
+ 300 1001111001110000110   0.000754   0.001000
+ 301 1001111001110000111   0.000754   0.000000
+ 302 1001111001111000000   0.000754   0.001000
+ 303 1001111001111000100   0.000754   0.002000
+ 304 1001111001111000110   0.000754   0.000000
+ 305 1001111001111000111   0.000754   0.001000
+ 306 1001111001111100000   0.000754   0.000000
+ 307 1001111001111100100   0.000754   0.000000
+ 308 1001111001111100110   0.000754   0.001000
+ 309 1001111001111100111   0.000754   0.000000
+ 310 1001111001111110000   0.000754   0.001000
+ 311 1001111001111110100   0.000754   0.000000
+ 312 1001111001111110110   0.000754   0.000000
+ 313 1001111001111110111   0.000754   0.001000
+ 314 1001111001111111000   0.000754   0.001000
+ 315 1001111001111111100   0.000754   0.002000
+ 316 1001111001111111110   0.000754   0.002000
+ 317 1001111001111111111   0.000754   0.002000
+ 318 1001111100000000000   0.000754   0.000000
+ 319 1001111100010000000   0.000754   0.000000
+ 320 1001111100010000100   0.000754   0.001000
+ 321 1001111100010000110   0.000754   0.001000
+ 322 1001111100010000111   0.000754   0.000000
+ 323 1001111100011000000   0.000754   0.001000
+ 324 1001111100011000100   0.000754   0.001000
+ 325 1001111100011000110   0.000754   0.000000
+ 326 1001111100011000111   0.000754   0.000000
+ 327 1001111100011100000   0.000754   0.000000
+ 328 1001111100011100100   0.000754   0.000000
+ 329 1001111100011100110   0.000754   0.000000
+ 330 1001111100011100111   0.000754   0.001000
+ 331 1001111100011110000   0.000754   0.000000
+ 332 1001111100011110100   0.000754   0.001000
+ 333 1001111100011110110   0.000754   0.001000
+ 334 1001111100011110111   0.000754   0.000000
+ 335 1001111100011111000   0.000754   0.000000
+ 336 1001111100011111100   0.000754   0.000000
+ 337 1001111100011111110   0.000754   0.000000
+ 338 1001111100011111111   0.000754   0.001000
+ 339 1001111101000000000   0.000754   0.000000
+ 340 1001111101010000000   0.000754   0.000000
+ 341 1001111101010000100   0.000754   0.000000
+ 342 1001111101010000110   0.000754   0.000000
+ 343 1001111101010000111   0.000754   0.001000
+ 344 1001111101011000000   0.000754   0.001000
+ 345 1001111101011000100   0.000754   0.001000
+ 346 1001111101011000110   0.000754   0.002000
+ 347 1001111101011000111   0.000754   0.001000
+ 348 1001111101011100000   0.000754   0.000000
+ 349 1001111101011100100   0.000754   0.000000
+ 350 1001111101011100110   0.000754   0.001000
+ 351 1001111101011100111   0.000754   0.001000
+ 352 1001111101011110000   0.000754   0.001000
+ 353 1001111101011110100   0.000754   0.001000
+ 354 1001111101011110110   0.000754   0.001000
+ 355 1001111101011110111   0.000754   0.002000
+ 356 1001111101011111000   0.000754   0.000000
+ 357 1001111101011111100   0.000754   0.000000
+ 358 1001111101011111110   0.000754   0.000000
+ 359 1001111101011111111   0.000754   0.001000
+ 360 1001111101100000000   0.000754   0.000000
+ 361 1001111101110000000   0.000754   0.000000
+ 362 1001111101110000100   0.000754   0.000000
+ 363 1001111101110000110   0.000754   0.000000
+ 364 1001111101110000111   0.000754   0.002000
+ 365 1001111101111000000   0.000754   0.000000
+ 366 1001111101111000100   0.000754   0.001000
+ 367 1001111101111000110   0.000754   0.001000
+ 368 1001111101111000111   0.000754   0.000000
+ 369 1001111101111100000   0.000754   0.002000
+ 370 1001111101111100100   0.000754   0.001000
+ 371 1001111101111100110   0.000754   0.000000
+ 372 1001111101111100111   0.000754   0.001000
+ 373 1001111101111110000   0.000754   0.002000
+ 374 1001111101111110100   0.000754   0.001000
+ 375 1001111101111110110   0.000754   0.000000
+ 376 1001111101111110111   0.000754   0.000000
+ 377 1001111101111111000   0.000754   0.001000
+ 378 1001111101111111100   0.000754   0.000000
+ 379 1001111101111111110   0.000754   0.002000
+ 380 1001111101111111111   0.000754   0.001000
+ 381 1001111110000000000   0.000754   0.000000
+ 382 1001111110010000000   0.000754   0.000000
+ 383 1001111110010000100   0.000754   0.000000
+ 384 1001111110010000110   0.000754   0.001000
+ 385 1001111110010000111   0.000754   0.000000
+ 386 1001111110011000000   0.000754   0.000000
+ 387 1001111110011000100   0.000754   0.001000
+ 388 1001111110011000110   0.000754   0.001000
+ 389 1001111110011000111   0.000754   0.001000
+ 390 1001111110011100000   0.000754   0.000000
+ 391 1001111110011100100   0.000754   0.001000
+ 392 1001111110011100110   0.000754   0.000000
+ 393 1001111110011100111   0.000754   0.001000
+ 394 1001111110011110000   0.000754   0.000000
+ 395 1001111110011110100   0.000754   0.000000
+ 396 1001111110011110110   0.000754   0.001000
+ 397 1001111110011110111   0.000754   0.001000
+ 398 1001111110011111000   0.000754   0.000000
+ 399 1001111110011111100   0.000754   0.001000
+ 400 1001111110011111110   0.000754   0.002000
+ 401 1001111110011111111   0.000754   0.000000
+ 402 1001111111000000000   0.000754   0.001000
+ 403 1001111111010000000   0.000754   0.000000
+ 404 1001111111010000100   0.000754   0.000000
+ 405 1001111111010000110   0.000754   0.001000
+ 406 1001111111010000111   0.000754   0.001000
+ 407 1001111111011000000   0.000754   0.000000
+ 408 1001111111011000100   0.000754   0.000000
+ 409 1001111111011000110   0.000754   0.002000
+ 410 1001111111011000111   0.000754   0.002000
+ 411 1001111111011100000   0.000754   0.001000
+ 412 1001111111011100100   0.000754   0.001000
+ 413 1001111111011100110   0.000754   0.000000
+ 414 1001111111011100111   0.000754   0.001000
+ 415 1001111111011110000   0.000754   0.002000
+ 416 1001111111011110100   0.000754   0.004000
+ 417 1001111111011110110   0.000754   0.000000
+ 418 1001111111011110111   0.000754   0.001000
+ 419 1001111111011111000   0.000754   0.001000
+ 420 1001111111011111100   0.000754   0.002000
+ 421 1001111111011111110   0.000754   0.004000
+ 422 1001111111011111111   0.000754   0.001000
+ 423 1001111111100000000   0.000754   0.001000
+ 424 1001111111110000000   0.000754   0.001000
+ 425 1001111111110000100   0.000754   0.000000
+ 426 1001111111110000110   0.000754   0.000000
+ 427 1001111111110000111   0.000754   0.000000
+ 428 1001111111111000000   0.000754   0.001000
+ 429 1001111111111000100   0.000754   0.000000
+ 430 1001111111111000110   0.000754   0.000000
+ 431 1001111111111000111   0.000754   0.002000
+ 432 1001111111111100000   0.000754   0.001000
+ 433 1001111111111100100   0.000754   0.001000
+ 434 1001111111111100110   0.000754   0.002000
+ 435 1001111111111100111   0.000754   0.000000
+ 436 1001111111111110000   0.000754   0.002000
+ 437 1001111111111110100   0.000754   0.001000
+ 438 1001111111111110110   0.000754   0.003000
+ 439 1001111111111110111   0.000754   0.001000
+ 440 1001111111111111000   0.000754   0.001000
+ 441 1001111111111111100   0.000754   0.001000
+ 442 1001111111111111110   0.000754   0.001000
+ 443 1001111111111111111   0.000754   0.000000
+ 444 1100000000000000000   0.000754   0.000000
+ 445 1101000000000000000   0.000754   0.000000
+ 446 1101000000010000000   0.000754   0.000000
+ 447 1101000000010000100   0.000754   0.000000
+ 448 1101000000010000110   0.000754   0.000000
+ 449 1101000000010000111   0.000754   0.000000
+ 450 1101000000011000000   0.000754   0.000000
+ 451 1101000000011000100   0.000754   0.000000
+ 452 1101000000011000110   0.000754   0.000000
+ 453 1101000000011000111   0.000754   0.000000
+ 454 1101000000011100000   0.000754   0.000000
+ 455 1101000000011100100   0.000754   0.000000
+ 456 1101000000011100110   0.000754   0.000000
+ 457 1101000000011100111   0.000754   0.000000
+ 458 1101000000011110000   0.000754   0.001000
+ 459 1101000000011110100   0.000754   0.000000
+ 460 1101000000011110110   0.000754   0.000000
+ 461 1101000000011110111   0.000754   0.002000
+ 462 1101000000011111000   0.000754   0.000000
+ 463 1101000000011111100   0.000754   0.000000
+ 464 1101000000011111110   0.000754   0.000000
+ 465 1101000000011111111   0.000754   0.001000
+ 466 1101100000000000000   0.000754   0.000000
+ 467 1101100000010000000   0.000754   0.000000
+ 468 1101100000010000100   0.000754   0.000000
+ 469 1101100000010000110   0.000754   0.000000
+ 470 1101100000010000111   0.000754   0.000000
+ 471 1101100000011000000   0.000754   0.001000
+ 472 1101100000011000100   0.000754   0.001000
+ 473 1101100000011000110   0.000754   0.000000
+ 474 1101100000011000111   0.000754   0.000000
+ 475 1101100000011100000   0.000754   0.000000
+ 476 1101100000011100100   0.000754   0.002000
+ 477 1101100000011100110   0.000754   0.000000
+ 478 1101100000011100111   0.000754   0.000000
+ 479 1101100000011110000   0.000754   0.000000
+ 480 1101100000011110100   0.000754   0.001000
+ 481 1101100000011110110   0.000754   0.000000
+ 482 1101100000011110111   0.000754   0.000000
+ 483 1101100000011111000   0.000754   0.000000
+ 484 1101100000011111100   0.000754   0.000000
+ 485 1101100000011111110   0.000754   0.000000
+ 486 1101100000011111111   0.000754   0.000000
+ 487 1101101000000000000   0.000754   0.000000
+ 488 1101101000010000000   0.000754   0.000000
+ 489 1101101000010000100   0.000754   0.000000
+ 490 1101101000010000110   0.000754   0.001000
+ 491 1101101000010000111   0.000754   0.001000
+ 492 1101101000011000000   0.000754   0.000000
+ 493 1101101000011000100   0.000754   0.001000
+ 494 1101101000011000110   0.000754   0.000000
+ 495 1101101000011000111   0.000754   0.001000
+ 496 1101101000011100000   0.000754   0.000000
+ 497 1101101000011100100   0.000754   0.000000
+ 498 1101101000011100110   0.000754   0.000000
+ 499 1101101000011100111   0.000754   0.000000
+ 500 1101101000011110000   0.000754   0.000000
+ 501 1101101000011110100   0.000754   0.000000
+ 502 1101101000011110110   0.000754   0.000000
+ 503 1101101000011110111   0.000754   0.001000
+ 504 1101101000011111000   0.000754   0.003000
+ 505 1101101000011111100   0.000754   0.001000
+ 506 1101101000011111110   0.000754   0.000000
+ 507 1101101000011111111   0.000754   0.004000
+ 508 1101101001000000000   0.000754   0.000000
+ 509 1101101001010000000   0.000754   0.000000
+ 510 1101101001010000100   0.000754   0.001000
+ 511 1101101001010000110   0.000754   0.000000
+ 512 1101101001010000111   0.000754   0.000000
+ 513 1101101001011000000   0.000754   0.000000
+ 514 1101101001011000100   0.000754   0.000000
+ 515 1101101001011000110   0.000754   0.000000
+ 516 1101101001011000111   0.000754   0.001000
+ 517 1101101001011100000   0.000754   0.001000
+ 518 1101101001011100100   0.000754   0.000000
+ 519 1101101001011100110   0.000754   0.001000
+ 520 1101101001011100111   0.000754   0.000000
+ 521 1101101001011110000   0.000754   0.001000
+ 522 1101101001011110100   0.000754   0.002000
+ 523 1101101001011110110   0.000754   0.001000
+ 524 1101101001011110111   0.000754   0.000000
+ 525 1101101001011111000   0.000754   0.000000
+ 526 1101101001011111100   0.000754   0.001000
+ 527 1101101001011111110   0.000754   0.001000
+ 528 1101101001011111111   0.000754   0.001000
+ 529 1101101001100000000   0.000754   0.000000
+ 530 1101101001110000000   0.000754   0.000000
+ 531 1101101001110000100   0.000754   0.001000
+ 532 1101101001110000110   0.000754   0.000000
+ 533 1101101001110000111   0.000754   0.001000
+ 534 1101101001111000000   0.000754   0.000000
+ 535 1101101001111000100   0.000754   0.002000
+ 536 1101101001111000110   0.000754   0.001000
+ 537 1101101001111000111   0.000754   0.000000
+ 538 1101101001111100000   0.000754   0.001000
+ 539 1101101001111100100   0.000754   0.000000
+ 540 1101101001111100110   0.000754   0.000000
+ 541 1101101001111100111   0.000754   0.001000
+ 542 1101101001111110000   0.000754   0.000000
+ 543 1101101001111110100   0.000754   0.001000
+ 544 1101101001111110110   0.000754   0.001000
+ 545 1101101001111110111   0.000754   0.000000
+ 546 1101101001111111000   0.000754   0.000000
+ 547 1101101001111111100   0.000754   0.004000
+ 548 1101101001111111110   0.000754   0.001000
+ 549 1101101001111111111   0.000754   0.001000
+ 550 1101101100000000000   0.000754   0.000000
+ 551 1101101100010000000   0.000754   0.001000
+ 552 1101101100010000100   0.000754   0.000000
+ 553 1101101100010000110   0.000754   0.000000
+ 554 1101101100010000111   0.000754   0.000000
+ 555 1101101100011000000   0.000754   0.000000
+ 556 1101101100011000100   0.000754   0.000000
+ 557 1101101100011000110   0.000754   0.003000
+ 558 1101101100011000111   0.000754   0.001000
+ 559 1101101100011100000   0.000754   0.000000
+ 560 1101101100011100100   0.000754   0.001000
+ 561 1101101100011100110   0.000754   0.000000
+ 562 1101101100011100111   0.000754   0.001000
+ 563 1101101100011110000   0.000754   0.001000
+ 564 1101101100011110100   0.000754   0.000000
+ 565 1101101100011110110   0.000754   0.003000
+ 566 1101101100011110111   0.000754   0.002000
+ 567 1101101100011111000   0.000754   0.000000
+ 568 1101101100011111100   0.000754   0.001000
+ 569 1101101100011111110   0.000754   0.003000
+ 570 1101101100011111111   0.000754   0.001000
+ 571 1101101101000000000   0.000754   0.000000
+ 572 1101101101010000000   0.000754   0.000000
+ 573 1101101101010000100   0.000754   0.000000
+ 574 1101101101010000110   0.000754   0.002000
+ 575 1101101101010000111   0.000754   0.000000
+ 576 1101101101011000000   0.000754   0.002000
+ 577 1101101101011000100   0.000754   0.001000
+ 578 1101101101011000110   0.000754   0.001000
+ 579 1101101101011000111   0.000754   0.002000
+ 580 1101101101011100000   0.000754   0.002000
+ 581 1101101101011100100   0.000754   0.001000
+ 582 1101101101011100110   0.000754   0.000000
+ 583 1101101101011100111   0.000754   0.002000
+ 584 1101101101011110000   0.000754   0.000000
+ 585 1101101101011110100   0.000754   0.001000
+ 586 1101101101011110110   0.000754   0.000000
+ 587 1101101101011110111   0.000754   0.001000
+ 588 1101101101011111000   0.000754   0.000000
+ 589 1101101101011111100   0.000754   0.000000
+ 590 1101101101011111110   0.000754   0.001000
+ 591 1101101101011111111   0.000754   0.002000
+ 592 1101101101100000000   0.000754   0.000000
+ 593 1101101101110000000   0.000754   0.000000
+ 594 1101101101110000100   0.000754   0.001000
+ 595 1101101101110000110   0.000754   0.001000
+ 596 1101101101110000111   0.000754   0.001000
+ 597 1101101101111000000   0.000754   0.002000
+ 598 1101101101111000100   0.000754   0.002000
+ 599 1101101101111000110   0.000754   0.002000
+ 600 1101101101111000111   0.000754   0.000000
+ 601 1101101101111100000   0.000754   0.000000
+ 602 1101101101111100100   0.000754   0.000000
+ 603 1101101101111100110   0.000754   0.000000
+ 604 1101101101111100111   0.000754   0.000000
+ 605 1101101101111110000   0.000754   0.003000
+ 606 1101101101111110100   0.000754   0.001000
+ 607 1101101101111110110   0.000754   0.001000
+ 608 1101101101111110111   0.000754   0.004000
+ 609 1101101101111111000   0.000754   0.000000
+ 610 1101101101111111100   0.000754   0.000000
+ 611 1101101101111111110   0.000754   0.001000
+ 612 1101101101111111111   0.000754   0.004000
+ 613 1101101110000000000   0.000754   0.000000
+ 614 1101101110010000000   0.000754   0.000000
+ 615 1101101110010000100   0.000754   0.001000
+ 616 1101101110010000110   0.000754   0.000000
+ 617 1101101110010000111   0.000754   0.000000
+ 618 1101101110011000000   0.000754   0.000000
+ 619 1101101110011000100   0.000754   0.000000
+ 620 1101101110011000110   0.000754   0.000000
+ 621 1101101110011000111   0.000754   0.002000
+ 622 1101101110011100000   0.000754   0.001000
+ 623 1101101110011100100   0.000754   0.001000
+ 624 1101101110011100110   0.000754   0.001000
+ 625 1101101110011100111   0.000754   0.001000
+ 626 1101101110011110000   0.000754   0.000000
+ 627 1101101110011110100   0.000754   0.000000
+ 628 1101101110011110110   0.000754   0.000000
+ 629 1101101110011110111   0.000754   0.000000
+ 630 1101101110011111000   0.000754   0.000000
+ 631 1101101110011111100   0.000754   0.000000
+ 632 1101101110011111110   0.000754   0.000000
+ 633 1101101110011111111   0.000754   0.001000
+ 634 1101101111000000000   0.000754   0.000000
+ 635 1101101111010000000   0.000754   0.000000
+ 636 1101101111010000100   0.000754   0.002000
+ 637 1101101111010000110   0.000754   0.001000
+ 638 1101101111010000111   0.000754   0.001000
+ 639 1101101111011000000   0.000754   0.000000
+ 640 1101101111011000100   0.000754   0.000000
+ 641 1101101111011000110   0.000754   0.001000
+ 642 1101101111011000111   0.000754   0.000000
+ 643 1101101111011100000   0.000754   0.000000
+ 644 1101101111011100100   0.000754   0.001000
+ 645 1101101111011100110   0.000754   0.001000
+ 646 1101101111011100111   0.000754   0.000000
+ 647 1101101111011110000   0.000754   0.001000
+ 648 1101101111011110100   0.000754   0.000000
+ 649 1101101111011110110   0.000754   0.002000
+ 650 1101101111011110111   0.000754   0.001000
+ 651 1101101111011111000   0.000754   0.001000
+ 652 1101101111011111100   0.000754   0.000000
+ 653 1101101111011111110   0.000754   0.003000
+ 654 1101101111011111111   0.000754   0.002000
+ 655 1101101111100000000   0.000754   0.000000
+ 656 1101101111110000000   0.000754   0.002000
+ 657 1101101111110000100   0.000754   0.000000
+ 658 1101101111110000110   0.000754   0.002000
+ 659 1101101111110000111   0.000754   0.002000
+ 660 1101101111111000000   0.000754   0.000000
+ 661 1101101111111000100   0.000754   0.001000
+ 662 1101101111111000110   0.000754   0.000000
+ 663 1101101111111000111   0.000754   0.002000
+ 664 1101101111111100000   0.000754   0.001000
+ 665 1101101111111100100   0.000754   0.003000
+ 666 1101101111111100110   0.000754   0.000000
+ 667 1101101111111100111   0.000754   0.000000
+ 668 1101101111111110000   0.000754   0.000000
+ 669 1101101111111110100   0.000754   0.001000
+ 670 1101101111111110110   0.000754   0.002000
+ 671 1101101111111110111   0.000754   0.001000
+ 672 1101101111111111000   0.000754   0.001000
+ 673 1101101111111111100   0.000754   0.002000
+ 674 1101101111111111110   0.000754   0.001000
+ 675 1101101111111111111   0.000754   0.004000
+ 676 1101110000000000000   0.000754   0.000000
+ 677 1101110000010000000   0.000754   0.001000
+ 678 1101110000010000100   0.000754   0.000000
+ 679 1101110000010000110   0.000754   0.001000
+ 680 1101110000010000111   0.000754   0.000000
+ 681 1101110000011000000   0.000754   0.000000
+ 682 1101110000011000100   0.000754   0.000000
+ 683 1101110000011000110   0.000754   0.000000
+ 684 1101110000011000111   0.000754   0.001000
+ 685 1101110000011100000   0.000754   0.000000
+ 686 1101110000011100100   0.000754   0.000000
+ 687 1101110000011100110   0.000754   0.000000
+ 688 1101110000011100111   0.000754   0.001000
+ 689 1101110000011110000   0.000754   0.001000
+ 690 1101110000011110100   0.000754   0.000000
+ 691 1101110000011110110   0.000754   0.001000
+ 692 1101110000011110111   0.000754   0.000000
+ 693 1101110000011111000   0.000754   0.000000
+ 694 1101110000011111100   0.000754   0.001000
+ 695 1101110000011111110   0.000754   0.000000
+ 696 1101110000011111111   0.000754   0.001000
+ 697 1101111000000000000   0.000754   0.000000
+ 698 1101111000010000000   0.000754   0.000000
+ 699 1101111000010000100   0.000754   0.000000
+ 700 1101111000010000110   0.000754   0.000000
+ 701 1101111000010000111   0.000754   0.001000
+ 702 1101111000011000000   0.000754   0.000000
+ 703 1101111000011000100   0.000754   0.002000
+ 704 1101111000011000110   0.000754   0.000000
+ 705 1101111000011000111   0.000754   0.000000
+ 706 1101111000011100000   0.000754   0.001000
+ 707 1101111000011100100   0.000754   0.000000
+ 708 1101111000011100110   0.000754   0.000000
+ 709 1101111000011100111   0.000754   0.001000
+ 710 1101111000011110000   0.000754   0.001000
+ 711 1101111000011110100   0.000754   0.001000
+ 712 1101111000011110110   0.000754   0.002000
+ 713 1101111000011110111   0.000754   0.000000
+ 714 1101111000011111000   0.000754   0.000000
+ 715 1101111000011111100   0.000754   0.001000
+ 716 1101111000011111110   0.000754   0.002000
+ 717 1101111000011111111   0.000754   0.002000
+ 718 1101111001000000000   0.000754   0.000000
+ 719 1101111001010000000   0.000754   0.000000
+ 720 1101111001010000100   0.000754   0.000000
+ 721 1101111001010000110   0.000754   0.000000
+ 722 1101111001010000111   0.000754   0.000000
+ 723 1101111001011000000   0.000754   0.000000
+ 724 1101111001011000100   0.000754   0.002000
+ 725 1101111001011000110   0.000754   0.000000
+ 726 1101111001011000111   0.000754   0.000000
+ 727 1101111001011100000   0.000754   0.001000
+ 728 1101111001011100100   0.000754   0.001000
+ 729 1101111001011100110   0.000754   0.000000
+ 730 1101111001011100111   0.000754   0.000000
+ 731 1101111001011110000   0.000754   0.002000
+ 732 1101111001011110100   0.000754   0.003000
+ 733 1101111001011110110   0.000754   0.002000
+ 734 1101111001011110111   0.000754   0.001000
+ 735 1101111001011111000   0.000754   0.002000
+ 736 1101111001011111100   0.000754   0.002000
+ 737 1101111001011111110   0.000754   0.000000
+ 738 1101111001011111111   0.000754   0.000000
+ 739 1101111001100000000   0.000754   0.002000
+ 740 1101111001110000000   0.000754   0.000000
+ 741 1101111001110000100   0.000754   0.001000
+ 742 1101111001110000110   0.000754   0.000000
+ 743 1101111001110000111   0.000754   0.000000
+ 744 1101111001111000000   0.000754   0.000000
+ 745 1101111001111000100   0.000754   0.000000
+ 746 1101111001111000110   0.000754   0.000000
+ 747 1101111001111000111   0.000754   0.000000
+ 748 1101111001111100000   0.000754   0.003000
+ 749 1101111001111100100   0.000754   0.000000
+ 750 1101111001111100110   0.000754   0.000000
+ 751 1101111001111100111   0.000754   0.001000
+ 752 1101111001111110000   0.000754   0.000000
+ 753 1101111001111110100   0.000754   0.000000
+ 754 1101111001111110110   0.000754   0.000000
+ 755 1101111001111110111   0.000754   0.001000
+ 756 1101111001111111000   0.000754   0.001000
+ 757 1101111001111111100   0.000754   0.001000
+ 758 1101111001111111110   0.000754   0.001000
+ 759 1101111001111111111   0.000754   0.002000
+ 760 1101111100000000000   0.000754   0.001000
+ 761 1101111100010000000   0.000754   0.001000
+ 762 1101111100010000100   0.000754   0.000000
+ 763 1101111100010000110   0.000754   0.000000
+ 764 1101111100010000111   0.000754   0.000000
+ 765 1101111100011000000   0.000754   0.000000
+ 766 1101111100011000100   0.000754   0.000000
+ 767 1101111100011000110   0.000754   0.001000
+ 768 1101111100011000111   0.000754   0.001000
+ 769 1101111100011100000   0.000754   0.000000
+ 770 1101111100011100100   0.000754   0.002000
+ 771 1101111100011100110   0.000754   0.001000
+ 772 1101111100011100111   0.000754   0.001000
+ 773 1101111100011110000   0.000754   0.000000
+ 774 1101111100011110100   0.000754   0.002000
+ 775 1101111100011110110   0.000754   0.001000
+ 776 1101111100011110111   0.000754   0.002000
+ 777 1101111100011111000   0.000754   0.000000
+ 778 1101111100011111100   0.000754   0.000000
+ 779 1101111100011111110   0.000754   0.000000
+ 780 1101111100011111111   0.000754   0.002000
+ 781 1101111101000000000   0.000754   0.000000
+ 782 1101111101010000000   0.000754   0.001000
+ 783 1101111101010000100   0.000754   0.003000
+ 784 1101111101010000110   0.000754   0.001000
+ 785 1101111101010000111   0.000754   0.001000
+ 786 1101111101011000000   0.000754   0.002000
+ 787 1101111101011000100   0.000754   0.000000
+ 788 1101111101011000110   0.000754   0.002000
+ 789 1101111101011000111   0.000754   0.001000
+ 790 1101111101011100000   0.000754   0.000000
+ 791 1101111101011100100   0.000754   0.000000
+ 792 1101111101011100110   0.000754   0.005000
+ 793 1101111101011100111   0.000754   0.004000
+ 794 1101111101011110000   0.000754   0.001000
+ 795 1101111101011110100   0.000754   0.000000
+ 796 1101111101011110110   0.000754   0.000000
+ 797 1101111101011110111   0.000754   0.002000
+ 798 1101111101011111000   0.000754   0.001000
+ 799 1101111101011111100   0.000754   0.000000
+ 800 1101111101011111110   0.000754   0.005000
+ 801 1101111101011111111   0.000754   0.003000
+ 802 1101111101100000000   0.000754   0.001000
+ 803 1101111101110000000   0.000754   0.000000
+ 804 1101111101110000100   0.000754   0.001000
+ 805 1101111101110000110   0.000754   0.001000
+ 806 1101111101110000111   0.000754   0.001000
+ 807 1101111101111000000   0.000754   0.001000
+ 808 1101111101111000100   0.000754   0.001000
+ 809 1101111101111000110   0.000754   0.001000
+ 810 1101111101111000111   0.000754   0.001000
+ 811 1101111101111100000   0.000754   0.001000
+ 812 1101111101111100100   0.000754   0.002000
+ 813 1101111101111100110   0.000754   0.001000
+ 814 1101111101111100111   0.000754   0.000000
+ 815 1101111101111110000   0.000754   0.001000
+ 816 1101111101111110100   0.000754   0.001000
+ 817 1101111101111110110   0.000754   0.001000
+ 818 1101111101111110111   0.000754   0.002000
+ 819 1101111101111111000   0.000754   0.000000
+ 820 1101111101111111100   0.000754   0.001000
+ 821 1101111101111111110   0.000754   0.001000
+ 822 1101111101111111111   0.000754   0.002000
+ 823 1101111110000000000   0.000754   0.001000
+ 824 1101111110010000000   0.000754   0.000000
+ 825 1101111110010000100   0.000754   0.001000
+ 826 1101111110010000110   0.000754   0.000000
+ 827 1101111110010000111   0.000754   0.000000
+ 828 1101111110011000000   0.000754   0.000000
+ 829 1101111110011000100   0.000754   0.000000
+ 830 1101111110011000110   0.000754   0.003000
+ 831 1101111110011000111   0.000754   0.002000
+ 832 1101111110011100000   0.000754   0.002000
+ 833 1101111110011100100   0.000754   0.001000
+ 834 1101111110011100110   0.000754   0.000000
+ 835 1101111110011100111   0.000754   0.000000
+ 836 1101111110011110000   0.000754   0.001000
+ 837 1101111110011110100   0.000754   0.002000
+ 838 1101111110011110110   0.000754   0.001000
+ 839 1101111110011110111   0.000754   0.001000
+ 840 1101111110011111000   0.000754   0.001000
+ 841 1101111110011111100   0.000754   0.000000
+ 842 1101111110011111110   0.000754   0.000000
+ 843 1101111110011111111   0.000754   0.002000
+ 844 1101111111000000000   0.000754   0.002000
+ 845 1101111111010000000   0.000754   0.000000
+ 846 1101111111010000100   0.000754   0.001000
+ 847 1101111111010000110   0.000754   0.002000
+ 848 1101111111010000111   0.000754   0.000000
+ 849 1101111111011000000   0.000754   0.000000
+ 850 1101111111011000100   0.000754   0.001000
+ 851 1101111111011000110   0.000754   0.003000
+ 852 1101111111011000111   0.000754   0.000000
+ 853 1101111111011100000   0.000754   0.000000
+ 854 1101111111011100100   0.000754   0.000000
+ 855 1101111111011100110   0.000754   0.000000
+ 856 1101111111011100111   0.000754   0.004000
+ 857 1101111111011110000   0.000754   0.002000
+ 858 1101111111011110100   0.000754   0.001000
+ 859 1101111111011110110   0.000754   0.002000
+ 860 1101111111011110111   0.000754   0.000000
+ 861 1101111111011111000   0.000754   0.003000
+ 862 1101111111011111100   0.000754   0.002000
+ 863 1101111111011111110   0.000754   0.001000
+ 864 1101111111011111111   0.000754   0.006000
+ 865 1101111111100000000   0.000754   0.000000
+ 866 1101111111110000000   0.000754   0.000000
+ 867 1101111111110000100   0.000754   0.000000
+ 868 1101111111110000110   0.000754   0.001000
+ 869 1101111111110000111   0.000754   0.002000
+ 870 1101111111111000000   0.000754   0.001000
+ 871 1101111111111000100   0.000754   0.001000
+ 872 1101111111111000110   0.000754   0.001000
+ 873 1101111111111000111   0.000754   0.002000
+ 874 1101111111111100000   0.000754   0.000000
+ 875 1101111111111100100   0.000754   0.001000
+ 876 1101111111111100110   0.000754   0.000000
+ 877 1101111111111100111   0.000754   0.000000
+ 878 1101111111111110000   0.000754   0.000000
+ 879 1101111111111110100   0.000754   0.004000
+ 880 1101111111111110110   0.000754   0.003000
+ 881 1101111111111110111   0.000754   0.004000
+ 882 1101111111111111000   0.000754   0.002000
+ 883 1101111111111111100   0.000754   0.005000
+ 884 1101111111111111110   0.000754   0.003000
+ 885 1101111111111111111   0.000754   0.004000
+ 886 1110000000000000000   0.000754   0.000000
+ 887 1111000000000000000   0.000754   0.000000
+ 888 1111000000010000000   0.000754   0.000000
+ 889 1111000000010000100   0.000754   0.000000
+ 890 1111000000010000110   0.000754   0.000000
+ 891 1111000000010000111   0.000754   0.000000
+ 892 1111000000011000000   0.000754   0.000000
+ 893 1111000000011000100   0.000754   0.000000
+ 894 1111000000011000110   0.000754   0.000000
+ 895 1111000000011000111   0.000754   0.001000
+ 896 1111000000011100000   0.000754   0.000000
+ 897 1111000000011100100   0.000754   0.000000
+ 898 1111000000011100110   0.000754   0.000000
+ 899 1111000000011100111   0.000754   0.000000
+ 900 1111000000011110000   0.000754   0.000000
+ 901 1111000000011110100   0.000754   0.000000
+ 902 1111000000011110110   0.000754   0.000000
+ 903 1111000000011110111   0.000754   0.000000
+ 904 1111000000011111000   0.000754   0.000000
+ 905 1111000000011111100   0.000754   0.001000
+ 906 1111000000011111110   0.000754   0.000000
+ 907 1111000000011111111   0.000754   0.000000
+ 908 1111100000000000000   0.000754   0.000000
+ 909 1111100000010000000   0.000754   0.000000
+ 910 1111100000010000100   0.000754   0.000000
+ 911 1111100000010000110   0.000754   0.001000
+ 912 1111100000010000111   0.000754   0.000000
+ 913 1111100000011000000   0.000754   0.000000
+ 914 1111100000011000100   0.000754   0.000000
+ 915 1111100000011000110   0.000754   0.000000
+ 916 1111100000011000111   0.000754   0.000000
+ 917 1111100000011100000   0.000754   0.000000
+ 918 1111100000011100100   0.000754   0.000000
+ 919 1111100000011100110   0.000754   0.000000
+ 920 1111100000011100111   0.000754   0.002000
+ 921 1111100000011110000   0.000754   0.001000
+ 922 1111100000011110100   0.000754   0.000000
+ 923 1111100000011110110   0.000754   0.000000
+ 924 1111100000011110111   0.000754   0.000000
+ 925 1111100000011111000   0.000754   0.000000
+ 926 1111100000011111100   0.000754   0.000000
+ 927 1111100000011111110   0.000754   0.001000
+ 928 1111100000011111111   0.000754   0.001000
+ 929 1111101000000000000   0.000754   0.000000
+ 930 1111101000010000000   0.000754   0.000000
+ 931 1111101000010000100   0.000754   0.001000
+ 932 1111101000010000110   0.000754   0.000000
+ 933 1111101000010000111   0.000754   0.001000
+ 934 1111101000011000000   0.000754   0.000000
+ 935 1111101000011000100   0.000754   0.000000
+ 936 1111101000011000110   0.000754   0.001000
+ 937 1111101000011000111   0.000754   0.000000
+ 938 1111101000011100000   0.000754   0.000000
+ 939 1111101000011100100   0.000754   0.000000
+ 940 1111101000011100110   0.000754   0.001000
+ 941 1111101000011100111   0.000754   0.002000
+ 942 1111101000011110000   0.000754   0.002000
+ 943 1111101000011110100   0.000754   0.000000
+ 944 1111101000011110110   0.000754   0.000000
+ 945 1111101000011110111   0.000754   0.000000
+ 946 1111101000011111000   0.000754   0.000000
+ 947 1111101000011111100   0.000754   0.001000
+ 948 1111101000011111110   0.000754   0.000000
+ 949 1111101000011111111   0.000754   0.000000
+ 950 1111101001000000000   0.000754   0.000000
+ 951 1111101001010000000   0.000754   0.000000
+ 952 1111101001010000100   0.000754   0.001000
+ 953 1111101001010000110   0.000754   0.002000
+ 954 1111101001010000111   0.000754   0.000000
+ 955 1111101001011000000   0.000754   0.001000
+ 956 1111101001011000100   0.000754   0.000000
+ 957 1111101001011000110   0.000754   0.000000
+ 958 1111101001011000111   0.000754   0.002000
+ 959 1111101001011100000   0.000754   0.000000
+ 960 1111101001011100100   0.000754   0.002000
+ 961 1111101001011100110   0.000754   0.000000
+ 962 1111101001011100111   0.000754   0.002000
+ 963 1111101001011110000   0.000754   0.000000
+ 964 1111101001011110100   0.000754   0.002000
+ 965 1111101001011110110   0.000754   0.002000
+ 966 1111101001011110111   0.000754   0.001000
+ 967 1111101001011111000   0.000754   0.002000
+ 968 1111101001011111100   0.000754   0.002000
+ 969 1111101001011111110   0.000754   0.002000
+ 970 1111101001011111111   0.000754   0.001000
+ 971 1111101001100000000   0.000754   0.000000
+ 972 1111101001110000000   0.000754   0.000000
+ 973 1111101001110000100   0.000754   0.000000
+ 974 1111101001110000110   0.000754   0.000000
+ 975 1111101001110000111   0.000754   0.000000
+ 976 1111101001111000000   0.000754   0.000000
+ 977 1111101001111000100   0.000754   0.000000
+ 978 1111101001111000110   0.000754   0.003000
+ 979 1111101001111000111   0.000754   0.000000
+ 980 1111101001111100000   0.000754   0.000000
+ 981 1111101001111100100   0.000754   0.000000
+ 982 1111101001111100110   0.000754   0.001000
+ 983 1111101001111100111   0.000754   0.002000
+ 984 1111101001111110000   0.000754   0.003000
+ 985 1111101001111110100   0.000754   0.003000
+ 986 1111101001111110110   0.000754   0.002000
+ 987 1111101001111110111   0.000754   0.004000
+ 988 1111101001111111000   0.000754   0.000000
+ 989 1111101001111111100   0.000754   0.001000
+ 990 1111101001111111110   0.000754   0.000000
+ 991 1111101001111111111   0.000754   0.006000
+ 992 1111101100000000000   0.000754   0.000000
+ 993 1111101100010000000   0.000754   0.000000
+ 994 1111101100010000100   0.000754   0.000000
+ 995 1111101100010000110   0.000754   0.001000
+ 996 1111101100010000111   0.000754   0.000000
+ 997 1111101100011000000   0.000754   0.000000
+ 998 1111101100011000100   0.000754   0.000000
+ 999 1111101100011000110   0.000754   0.001000
+1000 1111101100011000111   0.000754   0.002000
+1001 1111101100011100000   0.000754   0.000000
+1002 1111101100011100100   0.000754   0.000000
+1003 1111101100011100110   0.000754   0.000000
+1004 1111101100011100111   0.000754   0.001000
+1005 1111101100011110000   0.000754   0.000000
+1006 1111101100011110100   0.000754   0.000000
+1007 1111101100011110110   0.000754   0.000000
+1008 1111101100011110111   0.000754   0.001000
+1009 1111101100011111000   0.000754   0.000000
+1010 1111101100011111100   0.000754   0.000000
+1011 1111101100011111110   0.000754   0.002000
+1012 1111101100011111111   0.000754   0.002000
+1013 1111101101000000000   0.000754   0.000000
+1014 1111101101010000000   0.000754   0.000000
+1015 1111101101010000100   0.000754   0.000000
+1016 1111101101010000110   0.000754   0.001000
+1017 1111101101010000111   0.000754   0.000000
+1018 1111101101011000000   0.000754   0.000000
+1019 1111101101011000100   0.000754   0.000000
+1020 1111101101011000110   0.000754   0.000000
+1021 1111101101011000111   0.000754   0.002000
+1022 1111101101011100000   0.000754   0.001000
+1023 1111101101011100100   0.000754   0.000000
+1024 1111101101011100110   0.000754   0.001000
+1025 1111101101011100111   0.000754   0.001000
+1026 1111101101011110000   0.000754   0.001000
+1027 1111101101011110100   0.000754   0.001000
+1028 1111101101011110110   0.000754   0.001000
+1029 1111101101011110111   0.000754   0.001000
+1030 1111101101011111000   0.000754   0.001000
+1031 1111101101011111100   0.000754   0.000000
+1032 1111101101011111110   0.000754   0.006000
+1033 1111101101011111111   0.000754   0.000000
+1034 1111101101100000000   0.000754   0.000000
+1035 1111101101110000000   0.000754   0.001000
+1036 1111101101110000100   0.000754   0.000000
+1037 1111101101110000110   0.000754   0.001000
+1038 1111101101110000111   0.000754   0.000000
+1039 1111101101111000000   0.000754   0.001000
+1040 1111101101111000100   0.000754   0.000000
+1041 1111101101111000110   0.000754   0.000000
+1042 1111101101111000111   0.000754   0.001000
+1043 1111101101111100000   0.000754   0.001000
+1044 1111101101111100100   0.000754   0.000000
+1045 1111101101111100110   0.000754   0.000000
+1046 1111101101111100111   0.000754   0.002000
+1047 1111101101111110000   0.000754   0.001000
+1048 1111101101111110100   0.000754   0.000000
+1049 1111101101111110110   0.000754   0.001000
+1050 1111101101111110111   0.000754   0.003000
+1051 1111101101111111000   0.000754   0.001000
+1052 1111101101111111100   0.000754   0.004000
+1053 1111101101111111110   0.000754   0.002000
+1054 1111101101111111111   0.000754   0.003000
+1055 1111101110000000000   0.000754   0.000000
+1056 1111101110010000000   0.000754   0.000000
+1057 1111101110010000100   0.000754   0.002000
+1058 1111101110010000110   0.000754   0.001000
+1059 1111101110010000111   0.000754   0.000000
+1060 1111101110011000000   0.000754   0.001000
+1061 1111101110011000100   0.000754   0.000000
+1062 1111101110011000110   0.000754   0.001000
+1063 1111101110011000111   0.000754   0.002000
+1064 1111101110011100000   0.000754   0.002000
+1065 1111101110011100100   0.000754   0.001000
+1066 1111101110011100110   0.000754   0.000000
+1067 1111101110011100111   0.000754   0.000000
+1068 1111101110011110000   0.000754   0.000000
+1069 1111101110011110100   0.000754   0.000000
+1070 1111101110011110110   0.000754   0.001000
+1071 1111101110011110111   0.000754   0.001000
+1072 1111101110011111000   0.000754   0.002000
+1073 1111101110011111100   0.000754   0.000000
+1074 1111101110011111110   0.000754   0.001000
+1075 1111101110011111111   0.000754   0.002000
+1076 1111101111000000000   0.000754   0.000000
+1077 1111101111010000000   0.000754   0.000000
+1078 1111101111010000100   0.000754   0.001000
+1079 1111101111010000110   0.000754   0.001000
+1080 1111101111010000111   0.000754   0.004000
+1081 1111101111011000000   0.000754   0.000000
+1082 1111101111011000100   0.000754   0.000000
+1083 1111101111011000110   0.000754   0.000000
+1084 1111101111011000111   0.000754   0.001000
+1085 1111101111011100000   0.000754   0.002000
+1086 1111101111011100100   0.000754   0.000000
+1087 1111101111011100110   0.000754   0.000000
+1088 1111101111011100111   0.000754   0.002000
+1089 1111101111011110000   0.000754   0.001000
+1090 1111101111011110100   0.000754   0.001000
+1091 1111101111011110110   0.000754   0.002000
+1092 1111101111011110111   0.000754   0.001000
+1093 1111101111011111000   0.000754   0.000000
+1094 1111101111011111100   0.000754   0.002000
+1095 1111101111011111110   0.000754   0.001000
+1096 1111101111011111111   0.000754   0.000000
+1097 1111101111100000000   0.000754   0.000000
+1098 1111101111110000000   0.000754   0.001000
+1099 1111101111110000100   0.000754   0.001000
+1100 1111101111110000110   0.000754   0.001000
+1101 1111101111110000111   0.000754   0.001000
+1102 1111101111111000000   0.000754   0.001000
+1103 1111101111111000100   0.000754   0.001000
+1104 1111101111111000110   0.000754   0.001000
+1105 1111101111111000111   0.000754   0.001000
+1106 1111101111111100000   0.000754   0.000000
+1107 1111101111111100100   0.000754   0.001000
+1108 1111101111111100110   0.000754   0.001000
+1109 1111101111111100111   0.000754   0.002000
+1110 1111101111111110000   0.000754   0.000000
+1111 1111101111111110100   0.000754   0.000000
+1112 1111101111111110110   0.000754   0.001000
+1113 1111101111111110111   0.000754   0.002000
+1114 1111101111111111000   0.000754   0.001000
+1115 1111101111111111100   0.000754   0.001000
+1116 1111101111111111110   0.000754   0.001000
+1117 1111101111111111111   0.000754   0.001000
+1118 1111110000000000000   0.000754   0.001000
+1119 1111110000010000000   0.000754   0.000000
+1120 1111110000010000100   0.000754   0.000000
+1121 1111110000010000110   0.000754   0.000000
+1122 1111110000010000111   0.000754   0.000000
+1123 1111110000011000000   0.000754   0.000000
+1124 1111110000011000100   0.000754   0.000000
+1125 1111110000011000110   0.000754   0.000000
+1126 1111110000011000111   0.000754   0.000000
+1127 1111110000011100000   0.000754   0.000000
+1128 1111110000011100100   0.000754   0.000000
+1129 1111110000011100110   0.000754   0.001000
+1130 1111110000011100111   0.000754   0.000000
+1131 1111110000011110000   0.000754   0.001000
+1132 1111110000011110100   0.000754   0.002000
+1133 1111110000011110110   0.000754   0.000000
+1134 1111110000011110111   0.000754   0.002000
+1135 1111110000011111000   0.000754   0.001000
+1136 1111110000011111100   0.000754   0.000000
+1137 1111110000011111110   0.000754   0.000000
+1138 1111110000011111111   0.000754   0.001000
+1139 1111111000000000000   0.000754   0.000000
+1140 1111111000010000000   0.000754   0.000000
+1141 1111111000010000100   0.000754   0.000000
+1142 1111111000010000110   0.000754   0.000000
+1143 1111111000010000111   0.000754   0.000000
+1144 1111111000011000000   0.000754   0.001000
+1145 1111111000011000100   0.000754   0.001000
+1146 1111111000011000110   0.000754   0.000000
+1147 1111111000011000111   0.000754   0.000000
+1148 1111111000011100000   0.000754   0.001000
+1149 1111111000011100100   0.000754   0.002000
+1150 1111111000011100110   0.000754   0.001000
+1151 1111111000011100111   0.000754   0.001000
+1152 1111111000011110000   0.000754   0.002000
+1153 1111111000011110100   0.000754   0.001000
+1154 1111111000011110110   0.000754   0.000000
+1155 1111111000011110111   0.000754   0.001000
+1156 1111111000011111000   0.000754   0.000000
+1157 1111111000011111100   0.000754   0.001000
+1158 1111111000011111110   0.000754   0.002000
+1159 1111111000011111111   0.000754   0.000000
+1160 1111111001000000000   0.000754   0.000000
+1161 1111111001010000000   0.000754   0.000000
+1162 1111111001010000100   0.000754   0.000000
+1163 1111111001010000110   0.000754   0.001000
+1164 1111111001010000111   0.000754   0.001000
+1165 1111111001011000000   0.000754   0.000000
+1166 1111111001011000100   0.000754   0.000000
+1167 1111111001011000110   0.000754   0.003000
+1168 1111111001011000111   0.000754   0.000000
+1169 1111111001011100000   0.000754   0.000000
+1170 1111111001011100100   0.000754   0.002000
+1171 1111111001011100110   0.000754   0.000000
+1172 1111111001011100111   0.000754   0.000000
+1173 1111111001011110000   0.000754   0.001000
+1174 1111111001011110100   0.000754   0.002000
+1175 1111111001011110110   0.000754   0.001000
+1176 1111111001011110111   0.000754   0.003000
+1177 1111111001011111000   0.000754   0.000000
+1178 1111111001011111100   0.000754   0.003000
+1179 1111111001011111110   0.000754   0.000000
+1180 1111111001011111111   0.000754   0.002000
+1181 1111111001100000000   0.000754   0.000000
+1182 1111111001110000000   0.000754   0.002000
+1183 1111111001110000100   0.000754   0.001000
+1184 1111111001110000110   0.000754   0.000000
+1185 1111111001110000111   0.000754   0.000000
+1186 1111111001111000000   0.000754   0.001000
+1187 1111111001111000100   0.000754   0.003000
+1188 1111111001111000110   0.000754   0.000000
+1189 1111111001111000111   0.000754   0.000000
+1190 1111111001111100000   0.000754   0.001000
+1191 1111111001111100100   0.000754   0.000000
+1192 1111111001111100110   0.000754   0.000000
+1193 1111111001111100111   0.000754   0.002000
+1194 1111111001111110000   0.000754   0.001000
+1195 1111111001111110100   0.000754   0.000000
+1196 1111111001111110110   0.000754   0.002000
+1197 1111111001111110111   0.000754   0.001000
+1198 1111111001111111000   0.000754   0.000000
+1199 1111111001111111100   0.000754   0.000000
+1200 1111111001111111110   0.000754   0.001000
+1201 1111111001111111111   0.000754   0.004000
+1202 1111111100000000000   0.000754   0.000000
+1203 1111111100010000000   0.000754   0.000000
+1204 1111111100010000100   0.000754   0.001000
+1205 1111111100010000110   0.000754   0.001000
+1206 1111111100010000111   0.000754   0.000000
+1207 1111111100011000000   0.000754   0.002000
+1208 1111111100011000100   0.000754   0.000000
+1209 1111111100011000110   0.000754   0.001000
+1210 1111111100011000111   0.000754   0.000000
+1211 1111111100011100000   0.000754   0.002000
+1212 1111111100011100100   0.000754   0.000000
+1213 1111111100011100110   0.000754   0.000000
+1214 1111111100011100111   0.000754   0.002000
+1215 1111111100011110000   0.000754   0.002000
+1216 1111111100011110100   0.000754   0.001000
+1217 1111111100011110110   0.000754   0.001000
+1218 1111111100011110111   0.000754   0.000000
+1219 1111111100011111000   0.000754   0.001000
+1220 1111111100011111100   0.000754   0.001000
+1221 1111111100011111110   0.000754   0.001000
+1222 1111111100011111111   0.000754   0.000000
+1223 1111111101000000000   0.000754   0.000000
+1224 1111111101010000000   0.000754   0.001000
+1225 1111111101010000100   0.000754   0.001000
+1226 1111111101010000110   0.000754   0.000000
+1227 1111111101010000111   0.000754   0.000000
+1228 1111111101011000000   0.000754   0.000000
+1229 1111111101011000100   0.000754   0.001000
+1230 1111111101011000110   0.000754   0.000000
+1231 1111111101011000111   0.000754   0.001000
+1232 1111111101011100000   0.000754   0.000000
+1233 1111111101011100100   0.000754   0.001000
+1234 1111111101011100110   0.000754   0.000000
+1235 1111111101011100111   0.000754   0.000000
+1236 1111111101011110000   0.000754   0.000000
+1237 1111111101011110100   0.000754   0.002000
+1238 1111111101011110110   0.000754   0.000000
+1239 1111111101011110111   0.000754   0.001000
+1240 1111111101011111000   0.000754   0.000000
+1241 1111111101011111100   0.000754   0.000000
+1242 1111111101011111110   0.000754   0.000000
+1243 1111111101011111111   0.000754   0.005000
+1244 1111111101100000000   0.000754   0.000000
+1245 1111111101110000000   0.000754   0.000000
+1246 1111111101110000100   0.000754   0.000000
+1247 1111111101110000110   0.000754   0.000000
+1248 1111111101110000111   0.000754   0.002000
+1249 1111111101111000000   0.000754   0.000000
+1250 1111111101111000100   0.000754   0.000000
+1251 1111111101111000110   0.000754   0.000000
+1252 1111111101111000111   0.000754   0.000000
+1253 1111111101111100000   0.000754   0.000000
+1254 1111111101111100100   0.000754   0.002000
+1255 1111111101111100110   0.000754   0.000000
+1256 1111111101111100111   0.000754   0.002000
+1257 1111111101111110000   0.000754   0.002000
+1258 1111111101111110100   0.000754   0.002000
+1259 1111111101111110110   0.000754   0.000000
+1260 1111111101111110111   0.000754   0.001000
+1261 1111111101111111000   0.000754   0.000000
+1262 1111111101111111100   0.000754   0.002000
+1263 1111111101111111110   0.000754   0.001000
+1264 1111111101111111111   0.000754   0.003000
+1265 1111111110000000000   0.000754   0.001000
+1266 1111111110010000000   0.000754   0.002000
+1267 1111111110010000100   0.000754   0.000000
+1268 1111111110010000110   0.000754   0.001000
+1269 1111111110010000111   0.000754   0.001000
+1270 1111111110011000000   0.000754   0.001000
+1271 1111111110011000100   0.000754   0.000000
+1272 1111111110011000110   0.000754   0.002000
+1273 1111111110011000111   0.000754   0.001000
+1274 1111111110011100000   0.000754   0.000000
+1275 1111111110011100100   0.000754   0.000000
+1276 1111111110011100110   0.000754   0.001000
+1277 1111111110011100111   0.000754   0.000000
+1278 1111111110011110000   0.000754   0.002000
+1279 1111111110011110100   0.000754   0.002000
+1280 1111111110011110110   0.000754   0.002000
+1281 1111111110011110111   0.000754   0.001000
+1282 1111111110011111000   0.000754   0.001000
+1283 1111111110011111100   0.000754   0.001000
+1284 1111111110011111110   0.000754   0.000000
+1285 1111111110011111111   0.000754   0.001000
+1286 1111111111000000000   0.000754   0.001000
+1287 1111111111010000000   0.000754   0.001000
+1288 1111111111010000100   0.000754   0.000000
+1289 1111111111010000110   0.000754   0.000000
+1290 1111111111010000111   0.000754   0.002000
+1291 1111111111011000000   0.000754   0.000000
+1292 1111111111011000100   0.000754   0.000000
+1293 1111111111011000110   0.000754   0.000000
+1294 1111111111011000111   0.000754   0.001000
+1295 1111111111011100000   0.000754   0.000000
+1296 1111111111011100100   0.000754   0.001000
+1297 1111111111011100110   0.000754   0.001000
+1298 1111111111011100111   0.000754   0.004000
+1299 1111111111011110000   0.000754   0.002000
+1300 1111111111011110100   0.000754   0.001000
+1301 1111111111011110110   0.000754   0.001000
+1302 1111111111011110111   0.000754   0.001000
+1303 1111111111011111000   0.000754   0.001000
+1304 1111111111011111100   0.000754   0.002000
+1305 1111111111011111110   0.000754   0.002000
+1306 1111111111011111111   0.000754   0.002000
+1307 1111111111100000000   0.000754   0.000000
+1308 1111111111110000000   0.000754   0.000000
+1309 1111111111110000100   0.000754   0.001000
+1310 1111111111110000110   0.000754   0.000000
+1311 1111111111110000111   0.000754   0.000000
+1312 1111111111111000000   0.000754   0.000000
+1313 1111111111111000100   0.000754   0.002000
+1314 1111111111111000110   0.000754   0.000000
+1315 1111111111111000111   0.000754   0.000000
+1316 1111111111111100000   0.000754   0.000000
+1317 1111111111111100100   0.000754   0.002000
+1318 1111111111111100110   0.000754   0.003000
+1319 1111111111111100111   0.000754   0.002000
+1320 1111111111111110000   0.000754   0.002000
+1321 1111111111111110100   0.000754   0.002000
+1322 1111111111111110110   0.000754   0.002000
+1323 1111111111111110111   0.000754   0.004000
+1324 1111111111111111000   0.000754   0.003000
+1325 1111111111111111100   0.000754   0.003000
+1326 1111111111111111110   0.000754   0.002000
+1327 1111111111111111111   0.000754   0.002000
+
+Order of ancestral nodes:
+  S1.1S1.13S1.9S1.2S2.8S1.5S1.18S1.7S1.6S1.16S1.14S1.3S1.10S1.15S1.20S1.12S1.4S1.11S1.17S1.19
+  S1.1S1.13S1.9
+  S1.1S1.13
+  S1.2S2.8S1.5S1.18S1.7S1.6S1.16S1.14S1.3S1.10S1.15S1.20S1.12S1.4S1.11S1.17S1.19
+  S1.2S2.8S1.5S1.18S1.7S1.6S1.16S1.14
+  S1.2S2.8
+  S1.5S1.18S1.7S1.6S1.16S1.14
+  S1.5S1.18S1.7
+  S1.5S1.18
+  S1.6S1.16S1.14
+  S1.6S1.16
+  S1.3S1.10S1.15S1.20S1.12S1.4S1.11S1.17S1.19
+  S1.3S1.10S1.15S1.20S1.12
+  S1.10S1.15S1.20S1.12
+  S1.10S1.15S1.20
+  S1.15S1.20
+  S1.4S1.11S1.17S1.19
+  S1.11S1.17S1.19
+  S1.17S1.19
+
+Guide tree with posterior probability for presence of nodes:
+(((S1.1, S1.13)#0.348000, S1.9)#0.706000, (((S1.2, S2.8)#0.517000, (((S1.5, S1.18)#0.383000, S1.7)#0.687000, ((S1.6, S1.16)#0.370000, S1.14)#0.712000)#0.951000)#0.991000, ((S1.3, ((S1.10, (S1.15, S1.20)#0.284000)#0.541000, S1.12)#0.721000)#0.867000, (S1.4, (S1.11, (S1.17, S1.19)#0.317000)#0.564000)#0.804000)#0.984000)#1.000000)#1.000000;;

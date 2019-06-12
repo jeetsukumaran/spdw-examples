@@ -1,0 +1,32 @@
+#NEXUS
+
+BEGIN TAXA;
+    DIMENSIONS NTAX=20;
+    TAXLABELS
+        S1.1
+        S1.17
+        S1.14
+        S1.7
+        S1.8
+        S1.6
+        S1.13
+        S1.10
+        S1.20
+        S1.5
+        S1.9
+        S1.2
+        S2.11
+        S2.16
+        S2.19
+        S2.12
+        S2.18
+        S1.3
+        S1.4
+        S1.15
+  ;
+END;
+
+BEGIN TREES;
+    TREE 1 = [&R] (((((S1.1:0.20587781806157857[&constrained=False,species=S1,!color=#0c7bdc],S1.17:0.20587781806157857[&constrained=False,!color=#0c7bdc,species=S1]):0.41582466540021024[&!color=#aaaaaa],S1.14:0.6217024834617888[&constrained=True,!color=#ffc20a,species=S1]):1.6287969323637972[&!color=#aaaaaa],(S1.7:1.8380083410364572[&constrained=False,species=S1,!color=#0c7bdc],S1.8:1.8380083410364572[&constrained=False,!color=#0c7bdc,species=S1]):0.41249107478912883[&!color=#aaaaaa],(S1.6:0.809442292034003[&constrained=True,species=S1,!color=#ffc20a],S1.13:0.809442292034003[&constrained=False,!color=#0c7bdc,species=S1]):1.441057123791583[&!color=#aaaaaa],(S1.10:0.039307047949781904[&constrained=False,species=S1,!color=#0c7bdc],S1.20:0.039307047949781904[&constrained=False,!color=#0c7bdc,species=S1]):2.211192367875804[&!color=#aaaaaa]):0.001988445057421906[&!color=#aaaaaa],S1.5:2.252487860883008[&constrained=False,!color=#0c7bdc,species=S1],S1.9:2.252487860883008[&constrained=False,!color=#0c7bdc,species=S1]):2.4242050884664055[&!color=#aaaaaa],(S1.2:3.890630836624612[&constrained=False,!color=#0c7bdc,species=S1],((S2.11:0.45345623679294[&constrained=True,!color=#ffc20a,species=S2],(S2.16:0.10870652644311996[&constrained=False,!color=#0c7bdc,species=S2],S2.19:0.10870652644311996[&constrained=False,!color=#0c7bdc,species=S2]):0.34474971034982005[&!color=#aaaaaa]):0.7827662145290413[&!color=#aaaaaa],(S2.12:0.17933448227532445[&constrained=False,species=S2,!color=#0c7bdc],S2.18:0.17933448227532445[&constrained=False,species=S2,!color=#0c7bdc]):1.0568879690466568[&!color=#aaaaaa]):2.654408385302631[&!color=#aaaaaa],S1.3:3.890630836624612[&constrained=False,!color=#0c7bdc,species=S1],(S1.4:0.527741033816838[&constrained=False,species=S1,!color=#0c7bdc],S1.15:0.527741033816838[&constrained=False,!color=#0c7bdc,species=S1]):3.362889802807774[&!color=#aaaaaa]):0.7860621127248013[&!color=#aaaaaa]):-1e-10[&!color=#aaaaaa];
+END;
+

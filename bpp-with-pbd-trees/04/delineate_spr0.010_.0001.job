@@ -1,0 +1,10 @@
+#! /bin/bash
+
+set -e -o pipefail
+
+delineate-estimate-species-partition.py  -c delineate_spr0.010_.0001.json -t delineate_spr0.010_.0001.nex -I  -l num_lineages:20 -l num_species:2 -l src_filepath:delineate_spr0.010_.0001.nex -l true_speciation_completion_rate:0.01 -l batch_id:megaptera::20190608213157::5367359334464491745 > delineate_spr0.010_.0001.partition-probs.json
+
+python3 ../../../bin/spdw_evaluate_delineate_jobs.py delineate_spr0.010_.0001.json delineate_spr0.010_.0001.partition-probs.json > delineate_spr0.010_.0001.joint-partition-est-perf.tsv
+
+
+echo "Job $JOBID completed on $(date --rfc-3339='seconds')"

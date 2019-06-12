@@ -1,0 +1,91 @@
+{
+  "species_leafset_constraints": [
+    [
+      "S1.1",
+      "S1.2",
+      "S1.6",
+      "S1.7",
+      "S1.8"
+    ],
+    [
+      "S2.10",
+      "S2.4"
+    ],
+    [
+      "S3.9"
+    ]
+  ],
+  "test_info": {
+    "species_leafsets": [
+      [
+        "S1.1",
+        "S1.2",
+        "S1.5",
+        "S1.6",
+        "S1.7",
+        "S1.8"
+      ],
+      [
+        "S2.10",
+        "S2.4"
+      ],
+      [
+        "S3.3",
+        "S3.9"
+      ]
+    ],
+    "constrained_lineages": [
+      "S1.1",
+      "S1.2",
+      "S1.6",
+      "S1.7",
+      "S1.8",
+      "S2.10",
+      "S2.4",
+      "S3.9"
+    ],
+    "unconstrained_lineages": [
+      "S1.5",
+      "S3.3"
+    ],
+    "species_leafset_constraint_label_map": {
+      "S1": [
+        "S1.1",
+        "S1.2",
+        "S1.6",
+        "S1.7",
+        "S1.8"
+      ],
+      "S2": [
+        "S2.10",
+        "S2.4"
+      ],
+      "S3": [
+        "S3.9"
+      ]
+    },
+    "species_partition_estimation_num_constrained_species": 3,
+    "species_partition_estimation_num_constrained_lineages": 8,
+    "species_partition_estimation_num_unconstrained_lineages": 2,
+    "true_speciation_completion_rate": 0.01,
+    "true_species_leafsets": [
+      [
+        "S1.1",
+        "S1.2",
+        "S1.5",
+        "S1.6",
+        "S1.7",
+        "S1.8"
+      ],
+      [
+        "S2.10",
+        "S2.4"
+      ],
+      [
+        "S3.3",
+        "S3.9"
+      ]
+    ],
+    "true_num_species": 3
+  }
+}

@@ -1,0 +1,35 @@
+#NEXUS
+
+BEGIN TAXA;
+    DIMENSIONS NTAX=13;
+    TAXLABELS
+        'S1.1_S1.17'    [&species="1",!color=#ff0000,constrained=true]
+        S1.14           [&species="1",!color=#ff0000,constrained=true]
+        'S1.7_S1.8'     [&species="1",!color=#ff0000,constrained=true]
+        'S1.6_S1.13'    [&species="1",!color=#ff0000,constrained=true]
+        'S1.10_S1.20'   [&species="1",!color=#ff0000,constrained=true]
+        S1.5            [&species="1",!color=#ff0000,constrained=true]
+        S1.9            [&species="1",!color=#ff0000,constrained=true]
+        S1.2            [&species="1",!color=#ff0000,constrained=true]
+        S2.11           [&species="2",!color=#ff0000,constrained=true]
+        'S2.16_S2.19'   [&species="2",!color=#ff0000,constrained=true]
+        'S2.12_S2.18'   [&species="2",!color=#ff0000,constrained=true]
+        S1.3            [&species="1",!color=#0000ff,constrained=false]
+        'S1.4_S1.15'    [&species="1",!color=#0000ff,constrained=false]
+  ;
+END;
+
+BEGIN TREES;
+    TREE 1 = [&R] ((((('S1.1_S1.17':0.6217024834617888,S1.14:0.6217024834617888):1.2684552941089624,'S1.7_S1.8':1.8901577775707512):0.3603416382548348,('S1.6_S1.13':1.336479974452934,'S1.10_S1.20':1.336479974452934):0.9140194413726519):0.001988445057421906,(S1.5:1.3468707844066525,S1.9:1.3468707844066525):0.9056170764763554):2.4242050884664055,((S1.2:1.2994610223407692,((S2.11:0.45345623679294,'S2.16_S2.19':0.45345623679294):0.7827662145290413,'S2.12_S2.18':1.2362224513219813):0.06323857101878794):2.591169814283843,(S1.3:2.530126258540638,'S1.4_S1.15':2.530126258540638):1.3605045780839742):0.7860621127248013):-1e-10;
+END;
+
+begin figtree;
+set appearance.branchLineWidth=5.0;
+set scaleBar.isShown=false;
+set tipLabels.fontName="sansserif";
+set tipLabels.fontSize=15;
+set tipLabels.fontStyle=0;
+set tipLabels.isShown=true;
+set tipLabels.significantDigits=4;
+end;
+

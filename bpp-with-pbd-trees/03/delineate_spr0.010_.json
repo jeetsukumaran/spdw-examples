@@ -1,0 +1,54 @@
+{
+  "params": {
+    "good_species_speciation_initiation_rate": 0.1,
+    "true_speciation_completion_rate": 0.01,
+    "incipient_species_speciation_initiation_rate": 0.1,
+    "good_species_extinction_rate": 0.0,
+    "incipient_species_extinction_rate": 0.0
+  },
+  "condition": "num_extant_lineages",
+  "condition_value": 10,
+  "trees": [
+    {
+      "tree_filepath": "delineate_spr0.010_.0001.nex",
+      "run_config_filepath": "delineate_spr0.010_.0001.json",
+      "lineage_taxon_namespace": [
+        "S1.1",
+        "S1.5",
+        "S1.8",
+        "S3.3",
+        "S3.9",
+        "S1.7",
+        "S2.4",
+        "S2.10",
+        "S1.2",
+        "S1.6"
+      ],
+      "lineage_tree": "[&R] (((S1.1:14.739095808760542,(S1.5:1.7447577828357268,S1.8:1.7447577828357268):12.994338025924815):0.7433194619210646,(((S3.3:0.714174855896843,S3.9:0.714174855896843):10.9189313717898,S1.7:11.633106227686643):3.3893782744321292,(S2.4:0.035295055112186446,S2.10:0.035295055112186446):14.987189447006585):0.45993076856283466):11.884494615877136,(S1.2:12.577995887469566,S1.6:12.577995887469566):14.788913999089177):-1e-10;",
+      "species_taxon_namespace": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "species_tree": "[&R] ((S3:15.022484502118772,S2:15.022484502118772):12.34442538443997,S1:27.366909886558744):-1e-10;",
+      "species_lineages_map": {
+        "S1": [
+          "S1.1",
+          "S1.2",
+          "S1.5",
+          "S1.6",
+          "S1.7",
+          "S1.8"
+        ],
+        "S2": [
+          "S2.10",
+          "S2.4"
+        ],
+        "S3": [
+          "S3.3",
+          "S3.9"
+        ]
+      }
+    }
+  ]
+}

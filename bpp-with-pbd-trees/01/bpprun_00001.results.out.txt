@@ -1,0 +1,70 @@
+Analysis started at: Sat Jun  8 21:08:17 2019
+Using BPP version: 4.1.4
+Command: bpp --cfile bpprun_00001.input.bpp.ctl 
+
+COMPRESSED ALIGNMENTS
+
+10 864 P
+S1.1_1^S1.1_1     auucguucaa cgagacuucu acaaugcgga uccagcccuu guaaacggcu ggugcuauaa ucaacggacu ggacguccca guguggaagg guccugggga uucgugccua aaggaacgaa ggaggccuua uucggacaca agaggaguca aggaauucuc uugcucguag cuguaggcaa ccaagcuaug gucaaaucaa aucccucgcu uuaucggcug ugucuagugc agcgagucga cgucguuagu agacaaccgc cucgccuaag uacaccuaau gcgcagugca guauguggcc cggaucccug ggucgaagag ggcaccggcc uggauuauug uggucccaac auguuauaag guagugcguc ggucaugaaa aaaagcucau aaauauuggc aaagcuaccg gaguacacga aagauccgua acgucagugc augugccgga uucucaugua gugcaaaucu cgacgaucgc gguguggucg cgcccuugaa acaauccaca ccaaauacgg uacaggacaa ggaaaaccga ccggauggag uuacagaagc cuacuagagc uuggucauuu cggagagcaa gucgguccau ggaguauaau cauaauacgu auauaauauc accggucaaa cacucgucca acguguuuuu aaucucuccg ugcggguaga uuucauccac ugcgacuuca ucagguggug ugguagaaca uuuguaugug gaaaacacau gcgccuuaga uuccuuaaag uucgucgaag aauguccugg gacgccgcga ggggcgcgcc ucacaacaaa aacgaacggg guuagacagc acccguuuac cuccgcguaa cacagccuua acug
+S1.1_2^S1.1_2     auucguucaa cgagacuucu acaaugcgga uccagcccuu guaaacggcu ggugcuauaa ucaacggacu ggacguccca guguggaagg guccugggga uucgugccua aaggaacgaa ggaggccuua uucggacaca agaggaguca aggaauucuc uugcucguag cuguaggcaa ccaagcuaug gucaaaucaa aucccucgcu uuaucggcug ugucuagugc agcgagucga cgucguuagu agacaaccgc cucgccuaag uacaccuaau gcgcagugca guauguggcc cggaucccug ggucgaagag ggcaccggcc uggauuauug uggucccaac auguuauaag guagugcguc ggucaugaaa aaaagcucau aaauauuggc aaagcuaccg gaguacacga aagauccgua acgucagugc augugccgga uucucaugua gugcaaaucu cgacgaucgc gguguggucg cgcccuugaa acaauccaca auugcccaaa cuuguccacu cuccgguuag uauugccauu gacuguuuaa uacagccgaa gacuaagcgc uuacacuuug uggcagagca ccucgcacgc auaguacgaa gguccgggag cuuaacucgc augcacggag uaccugagga cucugugaua auuaucacac gaaguaggcg aagccuacug cugcaaucau caucucugag aacaggacau cgucuggguc uaaagggguc cgagagcgga ccgcauacga gcacagggua ccuaguuucu uccagcaauu cgguuuacgg uuuuguauua acauucguua ugugccccua acaaagacug auugcagcau gaau
+S1.4_1^S1.4_1     auucguucaa cgagacuucu acaaugcgga uccagcccuu guaaacggcu ggugcuauaa ucaacggacu ggacguccca guguggaagg guccugggga uucgugccua aaggaacgaa ggaggccuua uucggacaca agaggaguca aggaauucuc uugcucguag cuguaggcaa ccaagcuaug gucaaaucaa aucccucgcu uuaucggcug ugucuagugc agcgagucga cgucguuagu ucuuucaauu uagauaaugu auacuuauca ugaagucauu ugucaauagg ucacguugca cacgauucua cagcuuuaag cccccgcaga aaaauguguu ggacaccgga acguauguca aucauacgug cgcuaacacc ucgguaaaca gugauagauu agcguuuucg guugcgacag uaacuuuaau ucccuagccg cagauugucu cgugcccagg uccuuccaau uagucuugaa auagugcccu caccgagggc ccaaauacgg uacaggacaa ggaaaaccga ccggauggag uuacagaagc cuacuagagc uuggucauuu cggagagcaa gucgguccau ggaguauaau cauaauacgu auauaaggag cuuaacucgc augcacggag uaccugagga cucugugaua auuaucacac gaaguaggcg aagccuacug cugcaaucau caucucugag aacaggacau cgucuggguc uuuguaaucg gauaccgcuc aauacgcuuc cugacauaau ugauaacaug cauuaauugg auuacgugcu cgaccguacu caggagugau guguuaagcu ugguuucagu gggcagaagc uuca
+S1.4_2^S1.4_2     auucguucaa cgagacuucu acaaugcgga uccagcccuu guaaacggcu ggugcuauaa ucaacggacu ggacguccuu accgaagcac cagugauaag aguuacagau ucacggaucg caucaggaau ccgccgacgu gccucuccac uuuuccgacu ccaaaacagu aguauuugcu uacgagcccc aaaugugacg gauuacuaag ggcauuaaac gaaggccgau cugauaaucg aucacgagaa agacaaccgc cucgccuaag uacaccuaau gcgcagugca guauguggcc cggaucccug ggucgaagag ggccuuuaag cccccgcaga aaaauguguu ggacaccgga acguauguca aucauacgug cggccgagga gguccgguug ucucaguuac uuaagacauc cccuaagucu cguggccccg ggagcguuuc ggacacaagg aaauggggac gugacuguug accaaaaauu uauuaagugc uuugaguuag ccaaauacgg uacaggacaa ggaaaaccga uauugccauu gacuguuuaa uacagccgaa gacuaagcga gccucucagc aaauuauugc aucuaucgcg ggcugcuaug uacguuuauc accggucaaa cacucgucca acccugagga cucugugaua auuaucacac gcgugcuuua ccauugcagu ggcuugaacc acaggacugc cggcauguga uccucacacg ccgccuuaga uuccuuaaag uucgucgaag aaugucggua ccuaguuucu uccagcaauu cguacgugcu cgaccguacu caggagugau gugaaggagg gaugcaugcc ucauuuugcg cggc
+S2.2_1^S2.2_1     auucguucaa cgagacuucu acugauguuu cuugcaauca cguccuccgg auauagucug aaguuucuac cagaucagca guguggaagg guccugggga uucgugccua aaggaacgaa gaucaggaau ccgccgacgu gccucuccac uuuuccgacu ccaaaacaga uaccgccugg gugcuuguga ucggugcugu ccaggagcuc ccucgacggu cccuauuacg ucaugcggac gcguuaguug agacaaccgc cucgccuaag uaacuuauca ugaagucauu uguaccccau aacucgaaau acauucgacc uuuaccggcc uggauuauga aaaauguguu ggacaccguu ugccgauagu uaagccucgu uuaagcucau aaauauuggc aaagcuaccg gaguacacgg guugcgacag uaacuuuaau ucccuagccg cagauuaagg aaauggggac gugacuguug acccgcccgc gcgagcaaug gggucuacuu ccaaauaaaa cuugucuggg aaggucaguu ccggauggag gacuguuuaa ugugcuaucg agaacucacu cggagagcaa uggcagagca cucuaucgcg gggccggucc ccgagcuauc acuaacucgc auuguuaauc guguguuuuu cucugucugc gagccaguug auucauccac ugcgcuacug cugcaaucau caucuacugc cggcaugacc auggguuuga acgccuuaga uucgagcggc aauagaugcu ugcugucugg gacaguuucu uccuaaucaa gaacaacaaa auuuguaacu caggagaccg caacguuuac cuaaagacgu gggcagagcg cggc
+S2.2_2^S2.2_2     auucguuagu uuuuuaaauc cuaaugcgga uccacaauca cguccuccuc uagcucggcu gucgacacgg aucuaauaca guguggaagg cagugauacc gcacgagacg cucucugauu agaggccuua uucggaccgu gccucuccac caacuacugg agugguacug cuguaggcaa ccaaggcccc aaaugugacg gauuacuauc ccucgacggu cccuauuacg ucuccucauu uaagaccccc agacaaaauu ugauggggca ggcaccuuca ugaagcgcgg accuguggcc ucacggaaau acgacgcugu acaaccggag cuagacggug uggaugugua caugguguag guagaugucu uaagccaucc gcaagcucau aaauaaaaca gugauguuac ucuccgggaa aagaucccag uaacuuuaau ggagcguaau acugggugua ggugcccgac gugaagagca cuaguggucg cgagugcccu cuugcuacuu cuuuuagcaa cuucaaacaa guccuugacc cauugcuuca uuauguugcg guacuccgaa agaaggugau cgacaucacu uggcaauugg ugagucagcg gcuaaacgaa ucgagcugaa ggcgacuccu uccuacgauc cgguugccac cucaaaucca auuacaggcu cuucaaguua ccuaacuuca ucgcaauccc gucacguggc cggcaccguu cccucacaga acgcggauau acgcuauucg uaauucacgc cgcugucgau auggcuuuug auaggaugga gaacuuaguc gauugggggg gcauaucauu gaacgucccu uaaaauugaa cggcuuucac uugc
+S3.3_1^S3.3_1     aucgcaccaa cuuuuaggaa uaagauaacg aggugcccuu ggugggaacu ggugcuacug aaguucacgg ucugcgguca gccgaauuca guccgcccga uguuacagcg cucuccucgc ugaggccaau gguuacgaca gcgcugaggg aggaaugacu cgugcgugcg cugauucugg gguuccuaug gaaugugugu ccgaugaucu uuaucuaaau cccuauacua gacgaaaucc gcggaccccc ucuggucacg aucguaggca cccauggaaa cuuuuguauu aagugugagg cccgauugac uuucauuacc acaacuaccg gggcaaucug uauuuuacgc agagguacaa acuauuucac gaauggcggc gcaagacacc gguaguaaca gccugagaac uaguauuaaa gucuauugag cguggcagua augccgagga caggggugcu uuuguuuucg guuggaucgu ucagaaaauc gcccuagaug guuuuccgau ucgaccgggg uuuaguaacg ugacgguucc gcaccggguc uagcgacaga guauaagaau ugucuacaau uaaccuagau guauuuagga ugauccgagc auugcacacc uguagcgugc cacggaggau ggaauaccuc aacaccuggg aaacaaggaa aaguggcauu cugaccagcg cuguacacuu aaacagaaca ucagguaucg aggccacgag aaaaugcuag ccuucguugc cauugggucu guuuuaggcg caacagucau gauagcgauc uaaggugcuu aaacaguagg gaccugcucc uuuuuccugc gcggcacacu gccauacgag guaugcgacu uggc
+S3.3_2^S3.3_2     aucgcagcaa cuuuuaggaa uaaaaucacg aggugcccuu ggugggaucu ggugcuacug aagggcacga ucugcgguca gccgaauuca gucggcccga uguuacagcg cucuccucgc ugaggccaag gguuacgaca gcgcugaggg aggaaugacu cgugcgugcg cugauucugg gguuccuaug guaugugcgu cgaaugaucu uuaucuaaag cccuauacua gacgaaaucc gcggaccccc ucuggucacg aucguaugca cccauggaaa cuuuuguauu aggugugagg cgggauugac uuucauuacc acaacuaccg gggcaaucug uauuuuacgc agagguacaa acuauuucac gaauggcggc gcaagacacc gguagcuaca gccugagaac caguauuaaa gucuauugag ugugggagua augccgaggc caguggugcu uuuuuuuucg guuggaucgu ucggaaaauc gcccuaggug guuuuccgau ucgaccgggg uuuagcaacg ugacgguucc gcaccggguc uagcgacaga guauaagaau ugucuacaau uaaccuagau guauuuagga ugauacgagc auuccacauc uguagcgugc cacagaggau agaauaccuc aacaccuggg aacgaaugaa aaguggcauu cugaccagcg cuguacacuu aaacagaacc ucagguaucg aggccgcgag aaaaugcuag ccuucguugc cguugggucu guuuuaggcg caacaguuau gauagcgauc uaaggugcuu aaacaguagg gaccugcucc uuuuuccugc gcggcacacu gccauccgag guaugcgacu uugc
+S3.5_1^S3.5_1     accgcggcau auuaguuuua uaagauaucg aaacgccucc ugucgguacu gugcuccuug aacuggccua gacucgguca uccgcuguca gauugccuga guuuacguua uucuuagauc ugagauuagg uugcccgacg gcaucgaggu agguuguacg gguuauagcg cucuuagcgg gacuccuacc cuaugcaugu cgguaaaucu uuccguaacu uaauaugaua gagacguuaa ccgcggaucc acguuuaagg augccacaca ugccuacaaa guuucguaac aagugaaagu ggccacuacg auugauugcu acaaacuccg gccgucucuc gacucgaccc cgaugugcua aacauuuguc aaaagguuca ucacuacaug agcaggugca cugugaggca gacacucaca auuugccuac ccggacgaua acuccgagga uagcccuacu uuuagguugg cucggacucu ucaguaacga gccuaggagg gcuuuaagca ccauacuggg gugaacaggg uuuugguguc agguuagcuc guccgguaca gacuaaguau ugacagcgcu ucauacagau gcccuaaaga ugguacuagc uugucagacg gggggcaugc cacagcgugu augggacucu gacaaauugc auacagguaa cagggcccuc ccgacccgcg augucuacgu aaagagaaga uguggucucg cggccaugag caauaccgag cgucacgaac aagccgagca ggauuugccg uaacaauugu guaagcgaug aaaaaugguu ggacauugcc uacaggcucg uuaguacuga ucggcaauau cccauguggg gcccguuccu ugcc
+S3.5_2^S3.5_2     cauguuacua aguugguguc ugagacaggg gcgcgagcgu aucucgaacc cguuuaagag gguuacucgu ggaggcuucc aucaaccccu acgcuguggu gacuguagug aaaaugcaga uguuacaagu ucguuauaaa auuguacguu auauaugaac auuggcuucg aaacgucaau gauccgggua aacgcucgau ucgcaccucg caacagauaa ggacggccgu uacauaguua ucacagcuac uuugcgaugc uccacuggcc cgcuuugugu ucaugcaaug cgucccgggc gcggaauggg cuccgugauc guaggccgag agagagaguc cacgcuucug agucucuaga cgcgugcuac uagcaauuau uaacaccuca ggccgucccg gaacggcucg cgcgcacaag gaugacucac ggcauaguag acucugcgua guuugcucuu acauauaucg uuguggucuc uauuuacagu uccugaggga ccuacguggg augacccgga aucauccaug aguguaauga augccaggua gaucgucgga uggcacuaac uugucccaca uguagccgag ugucacuagu ugcaauaagg ccucaagggc gaggucuggc aauaggcgug acuucgagug uuuugagugg ucguccaaaa ggggccgacc gcaccucguu ugagagucuc uaacgaauac gaccguucgu aagucuuuug uaucauagag auuuggcuga guggagcgaa gcuauuucca aaaaggucgc uaaaucugag ggagacgaug cagaauuauc gucugaggag uaagggcaua uuacuaauau aagaccugag gagaccuccu gcuc
+1 1 2 2 2 1 1 3 1 1 1 2 1 1 1 1 1 1 1 2 2 1 1 1 3 1 1 2 1 5 1 1 1 1 2 1 1 2 1 4 1 1 1 1 1 2 1 1 2 1 3 1 1 1 1 2 1 1 2 4 1 2 1 1 1 1 1 2 1 1 2 1 2 1 1 3 1 2 1 2 1 1 2 2 1 1 1 2 2 1 1 1 1 1 1 1 1 1 3 1 1 1 2 1 1 4 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 2 1 2 2 2 3 1 1 3 2 3 3 1 1 1 1 1 2 1 2 1 1 1 1 1 1 2 2 2 2 2 1 1 2 1 1 1 2 3 1 2 1 1 2 2 2 1 1 1 1 1 2 3 1 1 1 1 3 1 1 1 2 1 2 3 2 2 2 1 3 1 1 1 2 1 1 1 1 1 1 1 3 1 1 1 1 1 1 1 1 1 1 1 1 1 3 1 1 1 2 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 2 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 2 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 3 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 2 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+
+
+Per-locus sequences in data and 'species&tree' tag:
+C.File | Data |                Status                | Population
+-------+------+--------------------------------------+-----------
+     2 |    2 | [OK]                                 | S1.1      
+     2 |    2 | [OK]                                 | S1.4      
+     2 |    2 | [OK]                                 | S2.2      
+     2 |    2 | [OK]                                 | S3.3      
+     2 |    2 | [OK]                                 | S3.5      
+
+
+Current Pjump:      0.21167  0.36061  0.00000  0.49117  0.92600
+Current finetune:   3.00000  0.00300  0.00200  0.00002  0.00500
+New finetune:       2.03309  0.00374  0.00002  0.00004  0.08404
+
+
+Current Pjump:      0.21778  0.34772  0.00000  0.51242  0.18500
+Current finetune:   2.03309  0.00374  0.00002  0.00004  0.08404
+New finetune:       1.42083  0.00447  0.00000  0.00008  0.04933
+
+
+Current Pjump:      0.22344  0.34672  0.00000  0.55517  0.43200
+Current finetune:   1.42083  0.00447  0.00000  0.00008  0.04933
+New finetune:       1.02101  0.00531  0.00000  0.00018  0.07806
+
+
+Current Pjump:      0.21989  0.34372  0.00000  0.52617  0.24000
+Current finetune:   1.02101  0.00531  0.00000  0.00018  0.07806
+New finetune:       0.72104  0.00625  0.00000  0.00039  0.06066
+
+Summarizing the species-delimitation sample in file bpprun_00001.results.mcmc.txt
+
+Number of species-delimitation models = 7
+
+     model    prior    posterior
+   1 0000   0.142857   0.000000
+   2 1000   0.142857   0.121000
+   3 1010   0.142857   0.125000
+   4 1011   0.142857   0.189000
+   5 1100   0.142857   0.138000
+   6 1110   0.142857   0.174000
+   7 1111   0.142857   0.253000
+
+Order of ancestral nodes:
+  S1.1S1.4S2.2S3.3S3.5
+  S1.1S1.4
+  S2.2S3.3S3.5
+  S3.3S3.5
+
+Guide tree with posterior probability for presence of nodes:
+((S1.1, S1.4)#0.565000, (S2.2, (S3.3, S3.5)#0.442000)#0.741000)#1.000000;;

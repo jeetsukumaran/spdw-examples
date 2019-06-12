@@ -1,0 +1,192 @@
+{
+    "num_tips": 5,
+    "root_age": "34.7745596308122",
+    "num_lineages": "5",
+    "num_species": "3",
+    "src_filepath": "delineate_spr1.000_.0001.nex",
+    "true_speciation_completion_rate": "1.0",
+    "batch_id": "megaptera::20190608201828::2240333494767056374",
+    "speciation_completion_rate": 0.07504610071018615,
+    "speciation_completion_rate_source": "estimated",
+    "speciation_completion_rate_estimate_lnl": -0.03423190573700416,
+    "num_partitions": 9,
+    "num_partitions_in_confidence_interval": 2,
+    "partitions": [
+        {
+            "species_leafsets": [
+                [
+                    "S3.3",
+                    "S3.5"
+                ],
+                [
+                    "S2.2"
+                ],
+                [
+                    "S1.4",
+                    "S1.1"
+                ]
+            ],
+            "probability": 0.73352195469125,
+            "probability_given_constraints": 0.7590665344949802,
+            "is_in_confidence_interval": true,
+            "cumulative_probability": 0.73352195469125,
+            "cumulative_probability_given_constraints": 0.7590665344949802
+        },
+        {
+            "species_leafsets": [
+                [
+                    "S3.3",
+                    "S3.5",
+                    "S2.2"
+                ],
+                [
+                    "S1.4",
+                    "S1.1"
+                ]
+            ],
+            "probability": 0.2275838687305312,
+            "probability_given_constraints": 0.23550937697148863,
+            "is_in_confidence_interval": true,
+            "cumulative_probability": 0.9611058234217813,
+            "cumulative_probability_given_constraints": 0.9945759114664688
+        },
+        {
+            "species_leafsets": [
+                [
+                    "S1.4",
+                    "S1.1",
+                    "S2.2"
+                ],
+                [
+                    "S3.3",
+                    "S3.5"
+                ]
+            ],
+            "probability": 0.0027254532360066206,
+            "probability_given_constraints": 0.0028203659475393105,
+            "is_in_confidence_interval": false,
+            "cumulative_probability": 0.9638312766577879,
+            "cumulative_probability_given_constraints": 0.9973962774140082
+        },
+        {
+            "species_leafsets": [
+                [
+                    "S3.5"
+                ],
+                [
+                    "S3.3"
+                ],
+                [
+                    "S2.2"
+                ],
+                [
+                    "S1.4",
+                    "S1.1"
+                ]
+            ],
+            "probability": 0.0019099831653382592,
+            "probability_given_constraints": 0.001976497489931721,
+            "is_in_confidence_interval": false,
+            "cumulative_probability": 0.9657412598231262,
+            "cumulative_probability_given_constraints": 0.9993727749039398
+        },
+        {
+            "species_leafsets": [
+                [
+                    "S3.5"
+                ],
+                [
+                    "S3.3",
+                    "S2.2"
+                ],
+                [
+                    "S1.4",
+                    "S1.1"
+                ]
+            ],
+            "probability": 0.0002960444347502527,
+            "probability_given_constraints": 0.0003063540521251152,
+            "is_in_confidence_interval": false,
+            "cumulative_probability": 0.9660373042578765,
+            "cumulative_probability_given_constraints": 0.9996791289560649
+        },
+        {
+            "species_leafsets": [
+                [
+                    "S3.5",
+                    "S2.2"
+                ],
+                [
+                    "S3.3"
+                ],
+                [
+                    "S1.4",
+                    "S1.1"
+                ]
+            ],
+            "probability": 0.0002960444347502527,
+            "probability_given_constraints": 0.0003063540521251152,
+            "is_in_confidence_interval": false,
+            "cumulative_probability": 0.9663333486926268,
+            "cumulative_probability_given_constraints": 0.99998548300819
+        },
+        {
+            "species_leafsets": [
+                [
+                    "S3.5"
+                ],
+                [
+                    "S3.3"
+                ],
+                [
+                    "S1.4",
+                    "S1.1",
+                    "S2.2"
+                ]
+            ],
+            "probability": 7.099620518110574e-06,
+            "probability_given_constraints": 7.346861683478843e-06,
+            "is_in_confidence_interval": false,
+            "cumulative_probability": 0.9663404483131449,
+            "cumulative_probability_given_constraints": 0.9999928298698735
+        },
+        {
+            "species_leafsets": [
+                [
+                    "S3.5"
+                ],
+                [
+                    "S3.3",
+                    "S1.4",
+                    "S1.1"
+                ],
+                [
+                    "S2.2"
+                ]
+            ],
+            "probability": 3.5543109705029756e-06,
+            "probability_given_constraints": 3.6780882884859156e-06,
+            "is_in_confidence_interval": false,
+            "cumulative_probability": 0.9663440026241155,
+            "cumulative_probability_given_constraints": 0.999996507958162
+        },
+        {
+            "species_leafsets": [
+                [
+                    "S3.5"
+                ],
+                [
+                    "S3.3",
+                    "S1.4",
+                    "S1.1",
+                    "S2.2"
+                ]
+            ],
+            "probability": 3.3745254708661296e-06,
+            "probability_given_constraints": 3.4920418378118783e-06,
+            "is_in_confidence_interval": false,
+            "cumulative_probability": 0.9663473771495863,
+            "cumulative_probability_given_constraints": 0.9999999999999998
+        }
+    ]
+}

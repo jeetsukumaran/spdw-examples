@@ -1,0 +1,34 @@
+#NEXUS
+
+BEGIN TAXA;
+    DIMENSIONS NTAX=10;
+    TAXLABELS
+        S1.1
+        S1.5
+        S1.8
+        S3.3
+        S3.9
+        S1.7
+        S2.4
+        S2.10
+        S1.2
+        S1.6
+  ;
+END;
+
+BEGIN TREES;
+    TREE 1 = [&R] (((S1.1:14.739095808760542[&constrained=False,species=S1,!color=#0c7bdc],(S1.5:1.7447577828357268[&constrained=True,species=S1,!color=#ffc20a],S1.8:1.7447577828357268[&constrained=False,species=S1,!color=#0c7bdc]):12.994338025924815[&!color=#aaaaaa]):0.7433194619210646[&!color=#aaaaaa],(((S3.3:0.714174855896843[&constrained=True,species=S3,!color=#ffc20a],S3.9:0.714174855896843[&constrained=False,species=S3,!color=#0c7bdc]):10.9189313717898[&!color=#aaaaaa],S1.7:11.633106227686643[&constrained=False,species=S1,!color=#0c7bdc]):3.3893782744321292[&!color=#aaaaaa],(S2.4:0.035295055112186446[&constrained=False,species=S2,!color=#0c7bdc],S2.10:0.035295055112186446[&constrained=False,species=S2,!color=#0c7bdc]):14.987189447006585[&!color=#aaaaaa]):0.45993076856283466[&!color=#aaaaaa]):11.884494615877136[&!color=#aaaaaa],(S1.2:12.577995887469566[&constrained=False,species=S1,!color=#0c7bdc],S1.6:12.577995887469566[&constrained=False,species=S1,!color=#0c7bdc]):14.788913999089177[&!color=#aaaaaa]):-1e-10[&!color=#aaaaaa];
+END;
+
+begin figtree;
+set appearance.branchLineWidth=5.0;
+set scaleBar.isShown=false;
+set tipLabels.colorAttribute="species";
+set tipLabels.displayAttribute="species";
+set tipLabels.fontName="sansserif";
+set tipLabels.fontSize=30;
+set tipLabels.fontStyle=0;
+set tipLabels.isShown=true;
+set tipLabels.significantDigits=4;
+end;
+

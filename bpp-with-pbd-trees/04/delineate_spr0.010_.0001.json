@@ -1,0 +1,117 @@
+{
+  "species_leafset_constraints": [
+    [
+      "S1.1",
+      "S1.10",
+      "S1.11",
+      "S1.13",
+      "S1.16",
+      "S1.17",
+      "S1.2",
+      "S1.4",
+      "S1.9"
+    ],
+    [
+      "S2.8"
+    ]
+  ],
+  "test_info": {
+    "species_leafsets": [
+      [
+        "S1.1",
+        "S1.10",
+        "S1.11",
+        "S1.12",
+        "S1.13",
+        "S1.14",
+        "S1.15",
+        "S1.16",
+        "S1.17",
+        "S1.18",
+        "S1.19",
+        "S1.2",
+        "S1.20",
+        "S1.3",
+        "S1.4",
+        "S1.5",
+        "S1.6",
+        "S1.7",
+        "S1.9"
+      ],
+      [
+        "S2.8"
+      ]
+    ],
+    "constrained_lineages": [
+      "S1.1",
+      "S1.10",
+      "S1.11",
+      "S1.13",
+      "S1.16",
+      "S1.17",
+      "S1.2",
+      "S1.4",
+      "S1.9",
+      "S2.8"
+    ],
+    "unconstrained_lineages": [
+      "S1.12",
+      "S1.14",
+      "S1.15",
+      "S1.18",
+      "S1.19",
+      "S1.20",
+      "S1.3",
+      "S1.5",
+      "S1.6",
+      "S1.7"
+    ],
+    "species_leafset_constraint_label_map": {
+      "S1": [
+        "S1.1",
+        "S1.10",
+        "S1.11",
+        "S1.13",
+        "S1.16",
+        "S1.17",
+        "S1.2",
+        "S1.4",
+        "S1.9"
+      ],
+      "S2": [
+        "S2.8"
+      ]
+    },
+    "species_partition_estimation_num_constrained_species": 2,
+    "species_partition_estimation_num_constrained_lineages": 10,
+    "species_partition_estimation_num_unconstrained_lineages": 10,
+    "true_speciation_completion_rate": 0.01,
+    "true_species_leafsets": [
+      [
+        "S1.1",
+        "S1.10",
+        "S1.11",
+        "S1.12",
+        "S1.13",
+        "S1.14",
+        "S1.15",
+        "S1.16",
+        "S1.17",
+        "S1.18",
+        "S1.19",
+        "S1.2",
+        "S1.20",
+        "S1.3",
+        "S1.4",
+        "S1.5",
+        "S1.6",
+        "S1.7",
+        "S1.9"
+      ],
+      [
+        "S2.8"
+      ]
+    ],
+    "true_num_species": 2
+  }
+}

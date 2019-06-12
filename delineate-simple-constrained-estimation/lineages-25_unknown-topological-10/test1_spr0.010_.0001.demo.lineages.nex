@@ -1,0 +1,49 @@
+#NEXUS
+
+BEGIN TAXA;
+    DIMENSIONS NTAX=25;
+    TAXLABELS
+        S1.1
+        S1.25
+        S1.2
+        S1.12
+        S1.17
+        S1.10
+        S1.15
+        S1.11
+        S1.20
+        S1.13
+        S1.4
+        S1.7
+        S1.19
+        S1.24
+        S1.6
+        S1.23
+        S1.8
+        S1.16
+        S1.5
+        S1.18
+        S1.3
+        S2.9
+        S2.21
+        S1.14
+        S1.22
+  ;
+END;
+
+BEGIN TREES;
+    TREE 1 = [&R] ((S1.1:0.004561244310927748[&constrained=False,species=S1,!color=#0c7bdc],S1.25:0.004561244310927748[&constrained=False,species=S1,!color=#0c7bdc]):15.801750584694684[&!color=#aaaaaa],((((S1.2:6.564435382381241[&constrained=False,species=S1,!color=#0c7bdc],(S1.12:3.204212109961775[&constrained=False,species=S1,!color=#0c7bdc],S1.17:3.204212109961775[&constrained=False,species=S1,!color=#0c7bdc]):3.360223272419466[&!color=#aaaaaa]):0.5949740728038488[&!color=#aaaaaa],((S1.10:4.730973509747347[&constrained=False,species=S1,!color=#0c7bdc],S1.15:4.730973509747347[&constrained=False,species=S1,!color=#0c7bdc]):1.9981383496048704[&!color=#aaaaaa],((S1.11:2.234740571089942[&constrained=False,species=S1,!color=#0c7bdc],S1.20:2.234740571089942[&constrained=False,species=S1,!color=#0c7bdc]):4.3061996737014905[&!color=#aaaaaa],S1.13:6.540940244791432[&constrained=False,species=S1,!color=#0c7bdc]):0.18817161456078502[&!color=#aaaaaa]):0.4302975958328723[&!color=#aaaaaa]):3.1953721092199245[&!color=#aaaaaa],(((S1.4:8.745957046182221[&constrained=True,species=S1,!color=#ffc20a],(S1.7:2.86344036492895[&constrained=True,species=S1,!color=#ffc20a],(S1.19:0.6285219774601565[&constrained=True,species=S1,!color=#ffc20a],S1.24:0.6285219774601565[&constrained=True,species=S1,!color=#ffc20a]):2.2349183874687935[&!color=#aaaaaa]):5.882516681253271[&!color=#aaaaaa]):0.007692882282954727[&!color=#aaaaaa],((S1.6:0.9293496486879533[&constrained=True,species=S1,!color=#ffc20a],S1.23:0.9293496486879533[&constrained=True,species=S1,!color=#ffc20a]):7.790664880459364[&!color=#aaaaaa],(S1.8:4.621246019833238[&constrained=True,species=S1,!color=#ffc20a],S1.16:4.621246019833238[&constrained=True,species=S1,!color=#ffc20a]):4.098768509314079[&!color=#aaaaaa]):0.03363539931785908[&!color=#aaaaaa]):1.4186599413149592[&!color=#aaaaaa],(S1.5:3.082676128295452[&constrained=True,species=S1,!color=#ffc20a],S1.18:3.082676128295452[&constrained=True,species=S1,!color=#ffc20a]):7.0896337414846835[&!color=#aaaaaa]):0.182471694624879[&!color=#aaaaaa]):0.006009133197468763[&!color=#aaaaaa],(S1.3:8.682773673646956[&constrained=False,species=S1,!color=#0c7bdc],((S2.9:1.8560720057161877[&constrained=False,species=S2,!color=#0c7bdc],S2.21:1.8560720057161877[&constrained=False,species=S2,!color=#0c7bdc]):4.371881761523783[&!color=#aaaaaa],(S1.14:1.7954737581280007[&constrained=False,species=S1,!color=#0c7bdc],S1.22:1.7954737581280007[&constrained=False,species=S1,!color=#0c7bdc]):4.43248000911197[&!color=#aaaaaa]):2.4548199064069856[&!color=#aaaaaa]):1.678017023955527[&!color=#aaaaaa]):5.4455211314031295[&!color=#aaaaaa]):-1e-10[&!color=#aaaaaa];
+END;
+
+begin figtree;
+set appearance.branchLineWidth=5.0;
+set scaleBar.isShown=false;
+set tipLabels.colorAttribute="species";
+set tipLabels.displayAttribute="species";
+set tipLabels.fontName="sansserif";
+set tipLabels.fontSize=30;
+set tipLabels.fontStyle=0;
+set tipLabels.isShown=true;
+set tipLabels.significantDigits=4;
+end;
+

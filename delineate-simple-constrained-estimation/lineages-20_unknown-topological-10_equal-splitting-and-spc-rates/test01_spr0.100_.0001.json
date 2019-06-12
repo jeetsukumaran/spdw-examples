@@ -1,0 +1,177 @@
+{
+  "species_leafset_constraints": [
+    [
+      "S1.1",
+      "S1.10",
+      "S1.16"
+    ],
+    [
+      "S12.18",
+      "S12.5"
+    ],
+    [
+      "S13.15"
+    ],
+    [
+      "S2.19",
+      "S2.2",
+      "S2.20"
+    ],
+    [
+      "S7.8"
+    ]
+  ],
+  "test_info": {
+    "species_leafsets": [
+      [
+        "S1.1",
+        "S1.10",
+        "S1.16"
+      ],
+      [
+        "S10.14"
+      ],
+      [
+        "S11.12"
+      ],
+      [
+        "S12.18",
+        "S12.5"
+      ],
+      [
+        "S13.15"
+      ],
+      [
+        "S14.11"
+      ],
+      [
+        "S2.19",
+        "S2.2",
+        "S2.20"
+      ],
+      [
+        "S3.3"
+      ],
+      [
+        "S4.6"
+      ],
+      [
+        "S5.9"
+      ],
+      [
+        "S6.4"
+      ],
+      [
+        "S7.8"
+      ],
+      [
+        "S8.17",
+        "S8.7"
+      ],
+      [
+        "S9.13"
+      ]
+    ],
+    "constrained_lineages": [
+      "S1.1",
+      "S1.10",
+      "S1.16",
+      "S12.18",
+      "S12.5",
+      "S13.15",
+      "S2.19",
+      "S2.2",
+      "S2.20",
+      "S7.8"
+    ],
+    "unconstrained_lineages": [
+      "S10.14",
+      "S11.12",
+      "S14.11",
+      "S3.3",
+      "S4.6",
+      "S5.9",
+      "S6.4",
+      "S8.17",
+      "S8.7",
+      "S9.13"
+    ],
+    "species_leafset_constraint_label_map": {
+      "S1": [
+        "S1.1",
+        "S1.10",
+        "S1.16"
+      ],
+      "S12": [
+        "S12.18",
+        "S12.5"
+      ],
+      "S13": [
+        "S13.15"
+      ],
+      "S2": [
+        "S2.19",
+        "S2.2",
+        "S2.20"
+      ],
+      "S7": [
+        "S7.8"
+      ]
+    },
+    "species_partition_estimation_num_constrained_species": 5,
+    "species_partition_estimation_num_constrained_lineages": 10,
+    "species_partition_estimation_num_unconstrained_lineages": 10,
+    "true_speciation_completion_rate": 0.1,
+    "true_species_leafsets": [
+      [
+        "S1.1",
+        "S1.10",
+        "S1.16"
+      ],
+      [
+        "S10.14"
+      ],
+      [
+        "S11.12"
+      ],
+      [
+        "S12.18",
+        "S12.5"
+      ],
+      [
+        "S13.15"
+      ],
+      [
+        "S14.11"
+      ],
+      [
+        "S2.19",
+        "S2.2",
+        "S2.20"
+      ],
+      [
+        "S3.3"
+      ],
+      [
+        "S4.6"
+      ],
+      [
+        "S5.9"
+      ],
+      [
+        "S6.4"
+      ],
+      [
+        "S7.8"
+      ],
+      [
+        "S8.17",
+        "S8.7"
+      ],
+      [
+        "S9.13"
+      ]
+    ],
+    "true_num_species": 14
+  }
+}

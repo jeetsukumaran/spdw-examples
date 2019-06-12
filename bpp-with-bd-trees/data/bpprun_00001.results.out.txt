@@ -1,0 +1,120 @@
+Analysis started at: Tue Jun 11 22:55:17 2019
+Using BPP version: 4.1.4
+Command: bpp --cfile bpprun_00001.input.bpp.ctl 
+
+COMPRESSED ALIGNMENTS
+
+10 3 P
+T3_1^T3_1     uag
+T3_2^T3_2     uag
+T1_1^T1_1     uag
+T1_2^T1_2     uag
+T4_1^T4_1     uau
+T4_2^T4_2     uau
+T5_1^T5_1     uau
+T5_2^T5_2     uau
+T2_1^T2_1     uug
+T2_2^T2_2     uug
+997 2 1
+
+10 53 P
+T3_1^T3_1     ccacgcagaa acgugcugug uaaacugguc cuacugcgac aaauagucac ggu
+T3_2^T3_2     ccacgcagaa acgugcugug uaaacugguc cuacugcgac aaauagucac ggu
+T1_1^T1_1     ccacgcagaa acgugaaaau cgucgauaaa gacaaugccu guuagugucu uuc
+T1_2^T1_2     ccacgcagaa acgugaaaau cgucgauaaa gacaaugccu guuagugucu uuc
+T4_1^T4_1     ccacgucccu uaucccugug uaaacuuaaa gacaauaaua ugccucagug aca
+T4_2^T4_2     ccacgucccu uaucccugug uaaacuuaaa gacaauaaua ugccucagug aca
+T5_1^T5_1     ccggccagcu uucaucugau cccgucggua gagucccgac guuaucagua cag
+T5_2^T5_2     ccggccagcu uucaucugau cccgucggua gagucccgac guuaucagua cag
+T2_1^T2_1     cgagaccaau ccuaacauuu gaugaggagc ggaacaccug aucgauaggc ucg
+T2_2^T2_2     cgagaccaau ccuaacauuu gauguggagc ggaacaccug aucgauuggc ucg
+5 14 12 11 28 13 11 38 12 13 26 23 18 19 20 6 9 26 15 7 18 19 14 19 1 13 16 13 28 10 11 20 21 17 35 25 16 22 30 24 28 25 27 20 19 24 1 27 28 20 29 27 27
+
+10 51 P
+T3_1^T3_1     acgauaagga guaaugcgua ggccaucgag acuuguuuua aauccuagca u
+T3_2^T3_2     acgauaagga guaaugcgua ggccaucgag acuuguuuua aauccuagca u
+T1_1^T1_1     acgauaagga guaauuaucg ucgggaauga ugagcccaag uccaacuaau g
+T1_2^T1_2     acgauaagga guaauuaucg ucgggaauga ugagcccaag uccaacuaau g
+T4_1^T4_1     acgauggcuu ugcuggcgua ggccaaauga ugagcggggc gggugacugg a
+T4_2^T4_2     acgauggcuu ugcuggcgua ggccaaauga ugagcggggc gggugacugg a
+T5_1^T5_1     accgaaaguu uaugagcgcg uuuauucgga uuccauuuug uccugaccuc c
+T5_2^T5_2     accgaaaguu uaugagcgcg uuuauucgga uuccauuuug uccugaccuc c
+T2_1^T2_1     agggcagagu cucgcgaaug aggacuacaa ccacuucgca ugacaaggag c
+T2_2^T2_2     agggcagagu cucgcgaaug aggacuacaa ccacuucgca ugacaaggag c
+8 15 15 7 20 10 15 30 10 7 21 18 23 22 20 10 3 35 8 10 22 20 22 26 24 12 12 26 15 13 28 34 25 21 31 25 23 17 31 23 22 17 14 22 28 21 24 26 21 22 26
+
+10 52 P
+T3_1^T3_1     gguacgcagu gcacaaagcu caucagaagu gucuucccuc ccuacucagg ag
+T3_2^T3_2     gguacgcagu gcacaaagcu caucagaagu gucuucccuc ccuacucagg ag
+T1_1^T1_1     gguacgcagu gcacaccuga auggguccca acacgaggau agggugaccu cu
+T1_2^T1_2     gguacgcagu gcacaccuga auggguccca acacgaggau agggugaccu cu
+T4_1^T4_1     gguacuaguc cuuguaagcu caucauccca acacguaacg guccgcuuua ga
+T4_2^T4_2     gguacuaguc cuuguaagcu caucauccca acacguaacg guccgcuuua gc
+T5_1^T5_1     ggccggcauc cacucaagga accacgaaca aauaccccuu aggcgcugac uu
+T5_2^T5_2     ggccggcauc cacucaagga accacgaaca aauaccccuu aggcgcugac uu
+T2_1^T2_1     gaucagaugc ucuugaccca uagaugcgga cuaaacgagc auaaucgaca uu
+T2_2^T2_2     gaucagaugc ucuugaccca uagaugcgga cuaaacgagc auaaucgaca uu
+5 15 11 11 20 15 11 15 22 13 22 23 22 27 24 12 8 26 11 12 33 24 18 26 18 8 17 21 8 7 28 26 17 40 18 27 20 21 23 23 19 18 33 17 21 21 22 21 18 34 27 1
+
+10 52 P
+T3_1^T3_1     uccgugauua guaacacuau ucaguuguau auucauuauc uuguggagau gu
+T3_2^T3_2     uccgugauua guaacacuau ucaguuguau auucauuauc uuguggagau gu
+T1_1^T1_1     uccgugauua guaaccucga cugagaaaug uggaggccca caccccucgc ca
+T1_2^T1_2     uccgugauua guaaccucga cugagaaaug uggaggccca caccccucgc ca
+T4_1^T4_1     uccgucucag cacguacuau ucaguaaaug uggagaguau agugaucaug uc
+T4_2^T4_2     uccgucucag cacguacuau ucaguaaaug uggagaguau agugaucaug uc
+T5_1^T5_1     ucuuagauag cguugacuga cguuauguug uacucuuauc caccaucaca ag
+T5_2^T5_2     ucuuagauag cguugacuga cguuauguug uacucuuauc caccaucaca ag
+T2_1^T2_1     ugcucguaug aucuaauaaa acgucuacag cuguuuucag uauagccuac ug
+T2_2^T2_2     ugcucguaug aucuaauaaa acgucuacag cuguuugcag uauagccuac ug
+3 16 11 14 23 13 11 20 5 6 22 27 20 27 24 23 11 24 15 10 20 28 27 33 28 11 3 15 12 13 25 18 26 25 23 26 1 25 25 21 29 29 17 29 17 16 26 20 27 22 19 19
+
+
+Per-locus sequences in data and 'species&tree' tag:
+C.File | Data |                Status                | Population
+-------+------+--------------------------------------+-----------
+     2 |    2 | [OK]                                 | T3        
+     2 |    2 | [OK]                                 | T1        
+     2 |    2 | [OK]                                 | T4        
+     2 |    2 | [OK]                                 | T5        
+     2 |    2 | [OK]                                 | T2        
+
+
+Current Pjump:      0.25071  0.30321  0.00000  0.23833  0.89900
+Current finetune:   3.00000  0.00300  0.00200  0.00002  0.00500
+New finetune:       2.44653  0.00304  0.00002  0.00002  0.06133
+
+
+Current Pjump:      0.24651  0.29773  0.00000  0.26842  0.59000
+Current finetune:   2.44653  0.00304  0.00002  0.00002  0.06133
+New finetune:       1.95812  0.00301  0.00000  0.00001  0.16032
+
+
+Current Pjump:      0.24298  0.29756  0.00000  0.19383  0.19000
+Current finetune:   1.95812  0.00301  0.00000  0.00001  0.16032
+New finetune:       1.54240  0.00298  0.00000  0.00001  0.09680
+
+
+Current Pjump:      0.23711  0.29676  0.00000  0.21742  0.42300
+Current finetune:   1.54240  0.00298  0.00000  0.00001  0.09680
+New finetune:       1.18266  0.00294  0.00000  0.00001  0.14880
+
+Summarizing the species-delimitation sample in file bpprun_00001.results.mcmc.txt
+
+Number of species-delimitation models = 5
+
+     model    prior    posterior
+   1 0000   0.200000   0.000000
+   2 1000   0.200000   0.005000
+   3 1100   0.200000   0.007000
+   4 1110   0.200000   0.010000
+   5 1111   0.200000   0.978000
+
+Order of ancestral nodes:
+  T3T1T4T5T2
+  T3T1T4T5
+  T1T4T5
+  T4T5
+
+Guide tree with posterior probability for presence of nodes:
+((T3, (T1, (T4, T5)#0.978000)#0.988000)#0.995000, T2)#1.000000;;

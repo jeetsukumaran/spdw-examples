@@ -1,0 +1,29 @@
+#NEXUS
+
+BEGIN TAXA;
+    DIMENSIONS NTAX=6;
+    TAXLABELS
+        S1
+        S5
+        S2
+        S6
+        S4
+        S3
+  ;
+END;
+
+BEGIN TREES;
+    TREE 1 = [&R] (((S1:11.125597084225756,S5:11.125597084225756):8.895327122310306,(S2:12.858032245268152,(S6:5.343096271236394,S4:5.343096271236394):7.514935974031758):7.16289196126791):6.07091823162012,S3:26.09184243815618):-1e-10;
+END;
+
+begin figtree;
+set appearance.branchLineWidth=5.0;
+set scaleBar.isShown=false;
+set tipLabels.displayAttribute="Name";
+set tipLabels.fontName="sansserif";
+set tipLabels.fontSize=30;
+set tipLabels.fontStyle=0;
+set tipLabels.isShown=true;
+set tipLabels.significantDigits=4;
+end;
+

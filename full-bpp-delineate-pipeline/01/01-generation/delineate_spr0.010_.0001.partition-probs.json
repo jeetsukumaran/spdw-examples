@@ -1,0 +1,304 @@
+{
+    "num_tips": 20,
+    "root_age": "4.676692949349413",
+    "num_lineages": "20",
+    "num_species": "2",
+    "src_filepath": "delineate_spr0.010_.0001.nex",
+    "true_speciation_completion_rate": "0.01",
+    "batch_id": "megaptera::20190608213930::3779814804214658221",
+    "speciation_completion_rate": 0.03305420050895747,
+    "speciation_completion_rate_source": "estimated",
+    "speciation_completion_rate_estimate_lnl": -7.1704584530148665,
+    "num_partitions": 8,
+    "num_partitions_in_confidence_interval": 2,
+    "partitions": [
+        {
+            "species_leafsets": [
+                [
+                    "S2.11",
+                    "S2.18",
+                    "S2.19",
+                    "S2.12",
+                    "S2.16"
+                ],
+                [
+                    "S1.4",
+                    "S1.1",
+                    "S1.13",
+                    "S1.14",
+                    "S1.5",
+                    "S1.15",
+                    "S1.2",
+                    "S1.6",
+                    "S1.7",
+                    "S1.9",
+                    "S1.17",
+                    "S1.10",
+                    "S1.20",
+                    "S1.3",
+                    "S1.8"
+                ]
+            ],
+            "probability": 0.000722529410122363,
+            "probability_given_constraints": 0.9396066208750788,
+            "is_in_confidence_interval": true,
+            "cumulative_probability": 0.000722529410122363,
+            "cumulative_probability_given_constraints": 0.9396066208750788
+        },
+        {
+            "species_leafsets": [
+                [
+                    "S1.4",
+                    "S1.1",
+                    "S1.13",
+                    "S1.14",
+                    "S1.5",
+                    "S1.15",
+                    "S1.2",
+                    "S1.7",
+                    "S1.9",
+                    "S1.17",
+                    "S1.10",
+                    "S1.20",
+                    "S1.3",
+                    "S1.8"
+                ],
+                [
+                    "S1.6"
+                ],
+                [
+                    "S2.11",
+                    "S2.18",
+                    "S2.19",
+                    "S2.12",
+                    "S2.16"
+                ]
+            ],
+            "probability": 1.95925474981416e-05,
+            "probability_given_constraints": 0.025478945342786292,
+            "is_in_confidence_interval": true,
+            "cumulative_probability": 0.0007421219576205046,
+            "cumulative_probability_given_constraints": 0.9650855662178651
+        },
+        {
+            "species_leafsets": [
+                [
+                    "S2.11",
+                    "S2.18",
+                    "S2.19",
+                    "S2.12",
+                    "S2.16"
+                ],
+                [
+                    "S1.4",
+                    "S1.1",
+                    "S1.13",
+                    "S1.5",
+                    "S1.15",
+                    "S1.2",
+                    "S1.6",
+                    "S1.7",
+                    "S1.9",
+                    "S1.17",
+                    "S1.10",
+                    "S1.20",
+                    "S1.3",
+                    "S1.8"
+                ],
+                [
+                    "S1.14"
+                ]
+            ],
+            "probability": 1.5001503237083357e-05,
+            "probability_given_constraints": 0.01950856472715114,
+            "is_in_confidence_interval": false,
+            "cumulative_probability": 0.0007571234608575879,
+            "cumulative_probability_given_constraints": 0.9845941309450162
+        },
+        {
+            "species_leafsets": [
+                [
+                    "S2.16",
+                    "S2.18",
+                    "S2.19",
+                    "S2.12"
+                ],
+                [
+                    "S2.11"
+                ],
+                [
+                    "S1.4",
+                    "S1.1",
+                    "S1.13",
+                    "S1.14",
+                    "S1.5",
+                    "S1.15",
+                    "S1.2",
+                    "S1.6",
+                    "S1.7",
+                    "S1.9",
+                    "S1.17",
+                    "S1.10",
+                    "S1.20",
+                    "S1.3",
+                    "S1.8"
+                ]
+            ],
+            "probability": 1.0911296867606621e-05,
+            "probability_given_constraints": 0.014189494068345842,
+            "is_in_confidence_interval": false,
+            "cumulative_probability": 0.0007680347577251946,
+            "cumulative_probability_given_constraints": 0.998783625013362
+        },
+        {
+            "species_leafsets": [
+                [
+                    "S1.6"
+                ],
+                [
+                    "S1.14"
+                ],
+                [
+                    "S2.11",
+                    "S2.18",
+                    "S2.19",
+                    "S2.12",
+                    "S2.16"
+                ],
+                [
+                    "S1.4",
+                    "S1.1",
+                    "S1.13",
+                    "S1.5",
+                    "S1.15",
+                    "S1.2",
+                    "S1.7",
+                    "S1.9",
+                    "S1.17",
+                    "S1.10",
+                    "S1.20",
+                    "S1.3",
+                    "S1.8"
+                ]
+            ],
+            "probability": 4.067898975438309e-07,
+            "probability_given_constraints": 0.0005290061216643731,
+            "is_in_confidence_interval": false,
+            "cumulative_probability": 0.0007684415476227384,
+            "cumulative_probability_given_constraints": 0.9993126311350264
+        },
+        {
+            "species_leafsets": [
+                [
+                    "S1.4",
+                    "S1.1",
+                    "S1.13",
+                    "S1.14",
+                    "S1.5",
+                    "S1.15",
+                    "S1.2",
+                    "S1.7",
+                    "S1.9",
+                    "S1.17",
+                    "S1.10",
+                    "S1.20",
+                    "S1.3",
+                    "S1.8"
+                ],
+                [
+                    "S1.6"
+                ],
+                [
+                    "S2.16",
+                    "S2.18",
+                    "S2.19",
+                    "S2.12"
+                ],
+                [
+                    "S2.11"
+                ]
+            ],
+            "probability": 2.958773707338805e-07,
+            "probability_given_constraints": 0.000384770962418793,
+            "is_in_confidence_interval": false,
+            "cumulative_probability": 0.0007687374249934723,
+            "cumulative_probability_given_constraints": 0.9996974020974453
+        },
+        {
+            "species_leafsets": [
+                [
+                    "S1.4",
+                    "S1.1",
+                    "S1.13",
+                    "S1.5",
+                    "S1.15",
+                    "S1.2",
+                    "S1.6",
+                    "S1.7",
+                    "S1.9",
+                    "S1.17",
+                    "S1.10",
+                    "S1.20",
+                    "S1.3",
+                    "S1.8"
+                ],
+                [
+                    "S2.16",
+                    "S2.18",
+                    "S2.19",
+                    "S2.12"
+                ],
+                [
+                    "S1.14"
+                ],
+                [
+                    "S2.11"
+                ]
+            ],
+            "probability": 2.2654559522007195e-07,
+            "probability_given_constraints": 0.00029460910271156434,
+            "is_in_confidence_interval": false,
+            "cumulative_probability": 0.0007689639705886923,
+            "cumulative_probability_given_constraints": 0.9999920112001569
+        },
+        {
+            "species_leafsets": [
+                [
+                    "S1.4",
+                    "S1.1",
+                    "S1.13",
+                    "S1.5",
+                    "S1.15",
+                    "S1.2",
+                    "S1.7",
+                    "S1.9",
+                    "S1.17",
+                    "S1.10",
+                    "S1.20",
+                    "S1.3",
+                    "S1.8"
+                ],
+                [
+                    "S2.11"
+                ],
+                [
+                    "S1.6"
+                ],
+                [
+                    "S1.14"
+                ],
+                [
+                    "S2.16",
+                    "S2.18",
+                    "S2.19",
+                    "S2.12"
+                ]
+            ],
+            "probability": 6.143148324014003e-09,
+            "probability_given_constraints": 7.988799843156097e-06,
+            "is_in_confidence_interval": false,
+            "cumulative_probability": 0.0007689701137370163,
+            "cumulative_probability_given_constraints": 1.0
+        }
+    ]
+}

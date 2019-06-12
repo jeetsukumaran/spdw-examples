@@ -1,0 +1,131 @@
+{
+  "species_leafset_constraints": [
+    [
+      "S1.1",
+      "S1.10",
+      "S1.13",
+      "S1.15",
+      "S1.17",
+      "S1.2",
+      "S1.20",
+      "S1.3",
+      "S1.4",
+      "S1.5",
+      "S1.7",
+      "S1.8",
+      "S1.9"
+    ],
+    [
+      "S2.12",
+      "S2.16",
+      "S2.18",
+      "S2.19"
+    ]
+  ],
+  "test_info": {
+    "species_leafsets": [
+      [
+        "S1.1",
+        "S1.10",
+        "S1.13",
+        "S1.14",
+        "S1.15",
+        "S1.17",
+        "S1.2",
+        "S1.20",
+        "S1.3",
+        "S1.4",
+        "S1.5",
+        "S1.6",
+        "S1.7",
+        "S1.8",
+        "S1.9"
+      ],
+      [
+        "S2.11",
+        "S2.12",
+        "S2.16",
+        "S2.18",
+        "S2.19"
+      ]
+    ],
+    "constrained_lineages": [
+      "S1.1",
+      "S1.10",
+      "S1.13",
+      "S1.15",
+      "S1.17",
+      "S1.2",
+      "S1.20",
+      "S1.3",
+      "S1.4",
+      "S1.5",
+      "S1.7",
+      "S1.8",
+      "S1.9",
+      "S2.12",
+      "S2.16",
+      "S2.18",
+      "S2.19"
+    ],
+    "unconstrained_lineages": [
+      "S1.14",
+      "S1.6",
+      "S2.11"
+    ],
+    "species_leafset_constraint_label_map": {
+      "S1": [
+        "S1.1",
+        "S1.10",
+        "S1.13",
+        "S1.15",
+        "S1.17",
+        "S1.2",
+        "S1.20",
+        "S1.3",
+        "S1.4",
+        "S1.5",
+        "S1.7",
+        "S1.8",
+        "S1.9"
+      ],
+      "S2": [
+        "S2.12",
+        "S2.16",
+        "S2.18",
+        "S2.19"
+      ]
+    },
+    "species_partition_estimation_num_constrained_species": 2,
+    "species_partition_estimation_num_constrained_lineages": 17,
+    "species_partition_estimation_num_unconstrained_lineages": 3,
+    "true_speciation_completion_rate": 0.01,
+    "true_species_leafsets": [
+      [
+        "S1.1",
+        "S1.10",
+        "S1.13",
+        "S1.14",
+        "S1.15",
+        "S1.17",
+        "S1.2",
+        "S1.20",
+        "S1.3",
+        "S1.4",
+        "S1.5",
+        "S1.6",
+        "S1.7",
+        "S1.8",
+        "S1.9"
+      ],
+      [
+        "S2.11",
+        "S2.12",
+        "S2.16",
+        "S2.18",
+        "S2.19"
+      ]
+    ],
+    "true_num_species": 2
+  }
+}
