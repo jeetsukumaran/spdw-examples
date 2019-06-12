@@ -99,3 +99,22 @@ Current Pjump:      0.26284  0.29760  0.00000  0.23758  0.33500
 Current finetune:   1.92471  0.00293  0.00000  0.00000  0.12081
 New finetune:       1.65473  0.00290  0.00000  0.00000  0.13772
 
+Summarizing the species-delimitation sample in file run2.results.mcmc.txt
+
+Number of species-delimitation models = 5
+
+     model    prior    posterior
+   1 0000   0.200000   0.000000
+   2 1000   0.200000   0.003000
+   3 1100   0.200000   0.003000
+   4 1110   0.200000   0.008000
+   5 1111   0.200000   0.986000
+
+Order of ancestral nodes:
+  T3T1T4T5T2
+  T3T1T4T5
+  T1T4T5
+  T4T5
+
+Guide tree with posterior probability for presence of nodes:
+((T3, (T1, (T4, T5)#0.986000)#0.994000)#0.997000, T2)#1.000000;;
